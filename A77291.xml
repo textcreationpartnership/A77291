@@ -1,0 +1,911 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The divinity of the Trinity cleared, by wiping off the false glosses put upon several places of Scripture by Mr. John Biddle, in his book intituled The apostolical and true opinion touching the Holy Trinity, &amp;c. Written by a very learned man, lately deceased.</title>
+            <author>Brayne, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 92 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77291</idno>
+            <idno type="STC">Wing B4322</idno>
+            <idno type="STC">Thomason E809_25</idno>
+            <idno type="STC">ESTC R19017</idno>
+            <idno type="EEBO-CITATION">99860540</idno>
+            <idno type="PROQUEST">99860540</idno>
+            <idno type="VID">112662</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77291)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112662)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 123:E809[25])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The divinity of the Trinity cleared, by wiping off the false glosses put upon several places of Scripture by Mr. John Biddle, in his book intituled The apostolical and true opinion touching the Holy Trinity, &amp;c. Written by a very learned man, lately deceased.</title>
+                  <author>Brayne, John.</author>
+               </titleStmt>
+               <extent>[4], 26, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.C. and are to be sold by Edw. Blackmore at the Angel in Paul's Church-yard.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A very learned man, lately deceased = John Brayne.</note>
+                  <note>Annotation on Thomason copy: "Septemb. 8:".</note>
+                  <note>Reproductions of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Biddle, John, 1615-1662. --  Apostolical and true opinion concerning the Holy Trinity --  Early works to 1800.</term>
+               <term>Trinity --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112662:1" rendition="simple:additions"/>
+            <p>THE DIVINITY Of the TRINITY CLEARED, By wiping off the falſe Gloſſes put upon ſeveral places of Scripture By Mr. <hi>John Biddle,</hi> In his book intituled <hi>The Apoſtolical and true Opinion touching the holy Trinity,</hi> &amp;c.</p>
+            <p>Written by a very Learned man, lately deceaſed.</p>
+            <q>
+               <p>Take heed how ye hear. <bibl>
+                     <hi>Luke 8.18.</hi>
+                  </bibl>
+               </p>
+               <p>Take heed what ye hear. <bibl>
+                     <hi>Mark 4.24.</hi>
+                  </bibl>
+               </p>
+               <p>Try all things: hold faſt that which is good. <bibl>
+                     <hi>1 Theſ. 5.21.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J.C.</hi> and are to be ſold by <hi>Edw. Blackmore</hi> at the Angel in <hi>Paul</hi>'s Church-yard. 1654.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:112662:2"/>
+            <pb facs="tcp:112662:2"/>
+            <head>To my noble and ever honored Friend Colonel <hi>William Sydenham</hi> a late mem<g ref="char:EOLhyphen"/>ber of Parliament.</head>
+            <opener>
+               <salute>Noble Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">C</seg>Ontentions have been great and high of old, and ſtill are ſo, about the equality or inequality of the Son of God with the Father, even to the Anathematizing one the other, when both that is a truth that the <hi>Arrians</hi> and the <hi>Arminians</hi> hold, <hi>viZ.</hi> That the Son is leſs then the Father; and that which the <hi>Protestants</hi> hold is no leſs a truth, <hi>viz.</hi> that the Sonne is equall with the Father: which being un<g ref="char:EOLhyphen"/>derſtood and obſerved according to the mind of God, is holy and good: but men exceeding in dimi<g ref="char:EOLhyphen"/>niſhing the Sonne in his Eſſence, and exalting him in his emanation, the truth being hid is the cauſe of the controverſie, and men have thereby come to ſubvert the faith of many.</p>
+            <p>The greateſt, the groſſeſt, and yet the moſt ſubtil way thereto, hath been laid of late by Mr. <hi>John Bid<g ref="char:EOLhyphen"/>dle,</hi> in that book of his, called, <hi>The Apostolical and true Opinion concerning the holy Trinity revived;</hi> which the
+<pb facs="tcp:112662:3"/> ſooner I have wrote againſt, becauſe from the year 1647. he gloryes no man of the many learned he hath conteſted with, hath given an anſwer to one Argument ſatisfactorily; yea, and that he hath long waited on the learned for an anſwer, and can receive none: That he hopes ſome one will; and that him<g ref="char:EOLhyphen"/>ſelf is in the caſe a doubting Spirit, and ſo a man convinceable, and not to be rejected: from all which, with the bond of the Goſpel, that tyeth me <hi>to contend for the faith,</hi> I am induced to commend this inſuing Treatiſe to the World, and firſt to you; to whom I acknowledge my ſelf and mine to owe very much, and to God for you who I believe will not fail to ſatisfie your laying out, from the leaſt Cup of water, to the greateſt good you do for his: to whom I com<g ref="char:EOLhyphen"/>mend you to be kept for ever, being as I am bound to be</p>
+            <closer>
+               <signed>Yours in the ſervice of the Goſpel <hi>John Brayne.</hi>
+               </signed> 
+               <dateline>
+                  <date>
+                     <hi>September</hi> 20. 2653.</date>
+               </dateline> I firſt viewed Mr. <hi>Biddles</hi> book about <hi>Sept.</hi> 3. 1653</closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:112662:3"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">P</seg>Rovidence directed to my hand that Novel piece of yours, Intituled, <hi>The Apostolical and True Opinion concerning the holy Trinity.</hi> In which to the Reader you glory, that you have conteſted with ſundry learned men, and that they all have not been able to produce a ſatis<g ref="char:EOLhyphen"/>factory anſwer to ſo much as one Argument. And then in the preface to your faith, you call the truth of God touching three Perſons in one God, by the term of <hi>Opinion;</hi> and ſay that it is as the bottom corrupting all Religi<g ref="char:EOLhyphen"/>on: which in a moſt blinde way of Nature you ſeek to demonſtrate from the being of Creatures, becauſe <hi>Apostle,</hi> an univerſal predicated of three, makes three Apoſtles, if a man will make uſe of reaſon in his Religion. By which blinde rule being led, you call it an ignorant refuge of diſtin<g ref="char:EOLhyphen"/>guiſhing the Eſſence and Perſons of God; yea a wretched and an un<g ref="char:EOLhyphen"/>heard-of diſtinction in Scripture. But your comparing the way and be<g ref="char:EOLhyphen"/>ing of God, with that of man; God a Spirit, and infinite; Man a Crea<g ref="char:EOLhyphen"/>ture, finite; were good it had never been heard, arguing thus in your ſe<g ref="char:EOLhyphen"/>cond Article of Faith, from <hi>Phil.</hi> 2.7.</p>
+            <p>
+               <hi>The Sonne cannot be equal to God; then he must have the ſame eſſence in number, or a different one: not the ſame in number, otherwiſe it's not equali<g ref="char:EOLhyphen"/>ty; but identity; as equality in ſtature must differ in number, though the ſame in kinde.</hi>
+            </p>
+            <p>You ſay in your fourth Article, <hi>The Trinity cannot conſist of three Per<g ref="char:EOLhyphen"/>ſons in one God, but God himſelf is one of the three Perſons, which is ab<g ref="char:EOLhyphen"/>ſurd:</hi> and ſay, <hi>it is not onely the ſource of almost all the errors among Christi<g ref="char:EOLhyphen"/>ans,</hi> &amp;c.</p>
+            <p>But it will appear, your declining the ſame doctrine, is the ſource of
+<pb n="2" facs="tcp:112662:4"/> multitudes of errors in your booke, and the overthrow of the faith of many, by your ſuppoſed Trinity of one God, one Man, one Angel. But if men obſerved your reaſoning about God, how carnal it is, they would avoid truſting you: <hi>For the natural Man diſcerneth not the things of God; nor can he.</hi> Never man ſpake ſo of God from the Earth, as you have done, confining his being to ours, proving and denying his by ours, who have not ſeen him, nor known him.</p>
+            <p>But in oppoſition to all your reaſonings and Sophiſtry,</p>
+            <p n="1">1. Conſider, God, <hi>Deut.</hi> 6.4. ſayes, <hi>Hear Iſrael;</hi> preparing the Peo<g ref="char:EOLhyphen"/>ple to attend to what he ſayes of himſelf, againſt whatever any decei<g ref="char:EOLhyphen"/>ver of the World ſhould ſay of him; that men be not deceived by them.</p>
+            <p n="2">2. He ſayes by <hi>Moſes, Johovah our Elohims is one Jehovah.</hi> Whence note, (deny it if you can) <hi>Jehovah,</hi> and <hi>Elohims,</hi> are the ſame: as Jeho<g ref="char:EOLhyphen"/>vah, Ehhad, one; and as <hi>Elohims,</hi> more then one, yea, or two; becauſe in the plural, not in the dual number.</p>
+            <p n="2">2. Theſe many, becauſe three Elohims, are one Jehovah; a word de<g ref="char:EOLhyphen"/>rived from <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>to be,</hi> and implyes relation to his eſſence.</p>
+            <p n="3">3. To ſay Jehovah is one, ſo one as to deny the Elohims, is to deny Jehovah; this place of all others diſcovering God moſt clear to the peo<g ref="char:EOLhyphen"/>ple of that State; and proves the Father, Son and Spirit one God to us even in our State.</p>
+            <p n="4">4. This very text wipes away all the groſs and vile aſperſions you have aſperſt the moſt pure truth of the bleſſed God with.</p>
+            <p n="2">2 Scrip. <hi>Gen.</hi> 11. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>In the beginning</hi> Dii crea<g ref="char:EOLhyphen"/>vit, <hi>the Gods hath created;</hi> which according to your reaſoning is non-ſence, which may make you riſe and ſay, How can three be one, or one be three? ſo how can this be ſence? but,</p>
+            <p n="1">1. In the Elohim, a noun plural joyned to a verb ſingular, is excel<g ref="char:EOLhyphen"/>lently declared the unity of theſe Elohims in eſſence.</p>
+            <p n="2">2. For that eſtate, as equal not in eſſence onely, but in name and nature, they have one common name of Elohims; after in the State of the Goſpel ſet forth by names of the Father, Sonne, and holy Spirit.</p>
+            <p n="3">3. They are indefinitely ſaid to create, that common name; and not the Father more then the Sonne, or Sonne then the holy Spirit.</p>
+            <p n="4">4. So that God the Creator of Heaven and Earth, <hi>Acts</hi> 17.24. is the Elohims, and not God the Father onely; which to ſay is Hereſie, as appears by theſe Scriptures compared: nor is it proper to ſay Jehovah did it, but the Elohim, <hi>John</hi> 13.</p>
+            <p n="5">5. It is not ſaid Jehovah as one created, but the Elohims, becauſe that the outgoings of God manifeſted themſelves in the creation, as Elo<g ref="char:EOLhyphen"/>hims; as Father, Sonne and Spirit in redemption, <hi>Prov.</hi> 8.22. as <hi>the beginning of his way, before his works of old:</hi> ſo that the Elohims, or go<g ref="char:EOLhyphen"/>ing
+<pb n="3" facs="tcp:112662:4"/> forth of Jehovah in his Elohims, was the beginning of his way before the Creation, and the Creation made by them.</p>
+            <p>The third Script. is <hi>Gen.</hi> 1.26. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+            </p>
+            <p>
+               <hi>And the Elohims ſaid, Let us make Adam.</hi>
+            </p>
+            <p>I remember a conceit of Mr. <hi>Biddles</hi> on this place, to evade the truth, that by <hi>US</hi> here, God and the Spirit are meant. But the deluſion ap<g ref="char:EOLhyphen"/>pears.</p>
+            <p n="1">1. The Elohims are appellatively the ſame: the Spirit that created was Elohim as well as the Father: whatever they were, they were one and all Elohims.</p>
+            <p n="3">3. Elohim is of the plural number, not the dual: ſo that that ſhift is nothing worth to hide the nakedneſs of his evaſion.</p>
+            <p n="4">4. They are brought in equally, ſaying <hi>Let us;</hi> not one ſaying ſo above another; not one making himſelf above another.</p>
+            <p n="5">5. The Elohim are many in number of the noun, but one in the parti<g ref="char:EOLhyphen"/>ciple, <hi>Quaſi dictus est Dii.</hi>
+            </p>
+            <p n="6">6. The Elohim, as Elohims, are many: <hi>Let us make.</hi>
+            </p>
+            <p>To me it ſeems, in this <hi>Gen.</hi> 1.26. <hi>Let us make man,</hi> the Father emptieth to the Sonne and the holy Spirit in the work of Creation, as the Sonne and holy Spirit empty themſelves to the Father in the work of re<g ref="char:EOLhyphen"/>demption, though not in that meaſure and that manner.</p>
+            <p>As the natural man, ſo Mr. <hi>Biddle</hi> (with <hi>Nicodemus</hi>) cryeth out, <hi>How can theſe things be?</hi> John 3.4. But let us conſider, God is not a Father to his Sonne, nor the Sonne a Sonne to the Father, as one man to ano<g ref="char:EOLhyphen"/>ther: the Father begets not, nor is the Sonne begotten in the way of the World. Nature and reaſon will but produce Atheiſme, and fighting God, if called in to conſult with in the caſe: which Mr. <hi>Biddle</hi> truſts altogether upon, as appears diverſly in the things he hath writ.</p>
+            <p>The fourth Scripture, <hi>Gen.</hi> 3.22. Jehovah Elohim ſaid, Be<g ref="char:EOLhyphen"/>hold, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>the Adam is as one of us;</hi> but read rather thus; <hi>The Adam IS AS HE:</hi> for ſo Echad or Ehhad ſignifies as well <hi>All</hi> as <hi>Unus;</hi> and the prepoſition ſignifies <hi>from</hi> as well as <hi>of;</hi> and it is more agreeable to truth ſo to read them. <hi>The Adam is become AS HE from us, viz.</hi> the Devil, who by his ſinne was gone from God, he having rebelled againſt God. So man by ſinne having the Image of Satan in ſtead of the Image of God in him, is ſaid to be <hi>the Child of the Devil,</hi> John 8.44.</p>
+            <p n="1">1. <hi>Jehovah Elohims</hi> ſaid, not <hi>Jehovah</hi> without the <hi>Elohims,</hi> not the <hi>Elo<g ref="char:EOLhyphen"/>hims</hi> without <hi>Jehovah.</hi>
+            </p>
+            <p n="2">2. Jehovah in the participle ſaid, ſpeaks as one; the Elohims ſpeaking of themſelves, ſpeak as of many, in the pronoun <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p n="3">3. Now in this is one, yet three; three Elohims, yet one Jehovah. He that denies this, denies Jehovah: he that blaſphemes it, blaſphemes
+<pb n="4" facs="tcp:112662:5"/> the truth: for is not this <hi>from us</hi> applyed to Jehovah as well as the Elo<g ref="char:EOLhyphen"/>hims?</p>
+            <p n="4">4. Now whether in Jehovah be not intended the Eſſence, as having derivation from the being and nature of God, and in the Elohims the hypoſtaſis in that Eſſence, let all judge that judge not according to fleſh, <hi>John</hi> 8.15.</p>
+            <p>
+               <hi>Appl.</hi> 1. It were not proper for Jehovah, God alone, to equalize himſelf with, or joyn other in ſpeech to himſelf, beſide thoſe in, or thoſe that are himſelf, one with him, when he ſpeaks of them and himſelf as one.</p>
+            <p n="2">2. Thoſe <hi>us</hi> are indefinitely ſpoke of, as the Elohims, they being the ſame one to or in another, and not to be diſtinguiſhed.</p>
+            <p n="3">3. Should we read the words <hi>like one of us,</hi> that there is the ſame like<g ref="char:EOLhyphen"/>neſs in one as in the other, if <hi>Adam</hi> had been like one, he had been like all; which could not be ſaid of Mr. <hi>Biddles</hi> Trinity: Chriſt was not born then; nor like the Spirit, that was an Angel, farre unlike God; God not being to be compared or joyned in likeneſs with a created Angel, or being humane and ſinful.</p>
+            <p>The fifth Scripture, <hi>Gen.</hi> 11.7. <hi>Go to,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>let us deſcend and there confound their language.</hi>
+            </p>
+            <p n="1">1. He that ſpeaks is Jehovah, <hi>ver.</hi> 6. in which is prevented an ob<g ref="char:EOLhyphen"/>jection that Jehovah is God indeed, but the Elohims his Miniſters: no, the text ſaith, <hi>Jehovah ſaid, Let us go downe;</hi> which is the Elohims as underſtood in Jehovah, and yet Jehovah then ſaid to be deſcending and changing place.</p>
+            <p n="2">2. Ver. 8. it is ſaid, <hi>Jehovah ſcattered them,</hi> or the <hi>US,</hi> the Elohims. Thus <hi>Exod.</hi> 20.1, 2. <hi>And the Elohims ſaid, I am Jehovah thy Elohims.</hi>
+            </p>
+            <p n="1">1. The Elohims ſaid, <hi>I (note I)</hi> not <hi>We.</hi>
+            </p>
+            <p n="2">2. <hi>Am Jehovah:</hi> ſo that the Elohims are Jehovah, three in one.</p>
+            <p n="3">3. This Jehovah are <hi>thy Elohims</hi> who gave the Law; and ſo all ſins againſt the Law, are equally done againſt the holy Spirit, as againſt the Sonne or Father, the one Jehovah, one three.</p>
+            <p n="4">4. <hi>There ſhall not be to thee</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>other Elo<g ref="char:EOLhyphen"/>hims before me.</hi> In which Mr. <hi>Biddle</hi> hath abominably treſpaſſed, ſetting up another Trinity of his own deviſing, other Elohims.</p>
+            <p n="1">1. Blaſpheming the Elohims, Jehovah, three one, one three, which he denyes, ſaying it cannot be.</p>
+            <p n="2">2. Sets up in ſtead thereof a golden Calfe; a God of his own, a falſe God; a man, an Angel: ſo Jehovah without Elohims is a falſe God, and no God. The Elohims gave the Law, <hi>The Elohims ſpake all theſe words:</hi> Jehovah is not ſaid to ſpeak them.</p>
+            <p>The ſixth Scripture, <hi>Job</hi> 35.10. <hi>And hath not ſaid, where is God my Makers, that giveth Songs in the night?</hi>
+            </p>
+            <p>Mr. <hi>Biddles</hi> confuſed ſenſe on the words is rare, ſaying more then one made man, though in different order of cauſality; But inaſmuch as God is
+<pb n="5" facs="tcp:112662:5"/> ſaid to be the makers, it intimates the power of any other perſon in making man was from God, and ſo on the matter God was the makers.</p>
+            <p>In which he allows the Spirit to be a maker, but not a God. But note, the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> as <hi>Pagnin</hi> tells us, is alwaies of the plural number, and not in the ſingular: and is thus to be read, Where is the <hi>Eloha</hi>'s my makers? the makers being <hi>Eloha</hi>'s one equal to the other, to man, his <hi>Eloha</hi>'s, his makers, <hi>Gen.</hi> 1.26.</p>
+            <p>The ſeventh Scripture, <hi>Eſay</hi> 6.8. <hi>I heard the voyce of the Lord, ſaying, Whom ſhall I ſend? and who will go for us?</hi>
+            </p>
+            <p n="1">1. By <hi>US</hi> is clear is meant more then one.</p>
+            <p n="2">2. By Adonai is here meant God, not man; elſe it ſhould have been Adoni, not Adonai; but in that it is Adonai, Jehovah is more clear.</p>
+            <p n="3">3. But in that <hi>ruacho, his ſpirit</hi> is added, I ſuppoſe Jehovah is here applyed diſtinctly to the Sonne, and ſo the Jews did underſtand it, <hi>Gal.</hi> 4.6.</p>
+            <p n="1">1. The Father ſending none, ſpecially of himſelf, but the Sonne; and the Sonne ſending others, as here in this place, and <hi>Matth.</hi> 28.19.</p>
+            <p n="2">2. Which is cleared more fully, in that the Spirit diſtinctly is ſaid alſo to ſend him, who is alſo ſaid to ſend <hi>Barnabas.</hi>
+            </p>
+            <p n="3">3. Adonai is ſet here, as in places elſewhere, before Jehovah; which is not done without a great myſtery in the change of order.</p>
+            <p n="4">4. Chriſt ſending out ſome Apoſtles, the Spirit immediately others.</p>
+            <p>
+               <hi>Appli.</hi> Let us take heed: for this day this is the miſery of this and other Nations, that <hi>we worſhip we know not what;</hi> as the <hi>Samaritans, John</hi> 4.22. But as the Law, ſo the Goſpel ſpeaks of <hi>three witneſſing in Heaven, and theſe three are one,</hi> 1 John 5.7. the Father, Word and Spirit.</p>
+            <p n="2">2. <hi>Kercherus</hi> in his Concordance of the Old Teſtament, ſayes, that <hi>Elohim</hi> is <hi>Deus,</hi> God in the Trinity of Perſons: ſo that with the aforemen<g ref="char:EOLhyphen"/>tioned Scriptures, all the texts have Jehovah Elohim in them, tranſlated Lord God, proves ſame; which in the Old Teſtament are many hundreds.</p>
+            <p n="1">1. To conclude with this part; where two or three witneſſes are ſaid to ſuffice for ſatisfaction in all differences, here are ſeven in ſtead of ma<g ref="char:EOLhyphen"/>ny: which were ſufficient, if there were no more, when theſe and all texts of Scripture have Jehovah Elohim in them witneſs the ſame; which are many hundreds.</p>
+            <p n="2">2. The people of God in the State of the Old Teſtament, and thoſe are of the State of the New, are to be of one lip, that is, ought to ſpeak of God one and the ſame, in one and the ſame way, 1 <hi>John</hi> 3.7. <hi>Act.</hi> 24.14. we ought to worſhip, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>our Fathers God, believing all according to the Law and the things written in the Prophets.</hi> Noting,</p>
+            <p n="1">1. God muſt be ſo ſpoke of and be underſtood in what is written of him in the New Teſtament, as in the Old, or we worſhip not (as <hi>Paul</hi> did) <hi>the God of his Fathers,</hi> who differed not in Law, in Prophets, nor in Goſpel: <hi>God and the Father</hi> in the Goſpel, is the ſame as <hi>Jehovah Elo<g ref="char:EOLhyphen"/>hims</hi>
+               <pb n="6" facs="tcp:112662:6"/> under the Law: the Father abiding in the excellent glory, and the Sonne and Spirit ſaid to be come forth from the Father.</p>
+            <p n="2">2. In this the bottom of Mr. <hi>Biddles</hi> deluſion lyeth, and is thus to be explained and manifeſted.</p>
+            <p n="1">1. That the Lord Jeſus following the Seventy, <hi>Mark</hi> 12.29. ſayes, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>The Lord</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>thy God, is one Lord:</hi> where from that <hi>Deut.</hi> 4.6. <hi>Lord</hi> is put for <hi>Jehovah:</hi> and ſo all Scriptures cited out of the Old Teſtament in the New, Chriſt and the Apoſtles following the Seventy, as tranſlated by them.</p>
+            <p n="2">2. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> yet is a Title given the man Chriſt common to Magiſtrates, when Jehovah was incommunicable to any but the <hi>Elohims:</hi> yea, it is put after God, 1 <hi>Cor.</hi> 6.5. as inferior in dignity to it.</p>
+            <p n="3">3. <hi>Adonai</hi> and <hi>Jehovah</hi> are both rendered <hi>Lord</hi> by <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, from <hi>Pſal.</hi> 110.1. in <hi>Matth.</hi> 22.24. <hi>The Lord ſaid unto my Lord.</hi>
+            </p>
+            <p n="4">4. Jehovah is rendred by <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Pſal.</hi> 132.11. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Jehovah hath ſworn in truth to David,</hi> Acts 2.30. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>that with an Oath God hath ſworn to him,</hi> Rom. 11.8. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>God hath given to them the ſpirit of ſlumber,</hi> ſo Rom. 2.21. compared with <hi>Iſa.</hi> 52.5. and in many other places. <hi>Iſa.</hi> 29.9.</p>
+            <p n="5">5. Elohim in the Old Teſtament ſignifieth that the Father, Sonne and holy Spirit doth in the New; and expreſt in the Plural, as <hi>Deut.</hi> 47. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>What Nation is there that hath to it the Elohims near to them, as Jehovah our Elohims?</hi> Deut. 5.26. <hi>for whom of all fleſh is there that hath heard the voice</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>of the living Elohims out the midst of the fire as we?</hi> Where <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> the <hi>voyce,</hi> is in the ſingular; the pronouncers, in the plural, as the voice of one, though many, (Mr. <hi>Biddle</hi> how can this be?) this word <hi>Elohims</hi> is expreſt by the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in the ſingular, as that <hi>Mark</hi> 12.19. thy Elo<g ref="char:EOLhyphen"/>hims, <hi>Deut.</hi> 4.6. is expreſt <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>your God.</hi> And ſo in all places of Scripture elſe; onely for example one more, <hi>Exod</hi> 3.14. <hi>The Elohims of</hi> Abraham, <hi>the Elohims of</hi> Iſaac, <hi>the Elohims of</hi> Jacob <hi>ſent me unto you.</hi> Acts 7.32. <hi>The</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>God of</hi> Abraham, <hi>the God of</hi> Iſaac, &amp;c. Onely one thing obſerve: in <hi>Exod. Jehovah the Elohim of thy Fathers, the Elohims of</hi> Abraham, &amp;c. In the Greek in <hi>Acts</hi> it is onely <hi>The God of thy Fathers,</hi> not <hi>the Lord God of thy Fathers,</hi> as in <hi>Luke</hi> 20.37. it is ſupplyed.</p>
+            <p n="1">1. In which great myſtery, note, the cauſe may be from the ſtraitneſs of the Greek tongue in the divine way of manifeſting God.</p>
+            <p n="2">2. To ſhew, that the Jew, as he is not perfect without the Gentile, in what is diſcovered them in the Hebrew; ſo nor the Gentile without the Jew, in what is diſcovered in the Greek. God is never to be known of us, but in the diſcovery of the Elohims; nor in them, but in the diſcovery of Fa<g ref="char:EOLhyphen"/>ther, Sonne, and Spirit; they having God in his going forth in the Creation, we in his going forth in redemption.</p>
+            <p n="3">3. It is clear, that untill we bring in the Goſpel <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> who anſwers to Jehovah, Elohim, El, <hi>&amp;c.</hi> in the Old Teſtament, to ſpeak to us of
+<pb n="7" facs="tcp:112662:6"/> God as all they did diſtinctly of the Jew, we never underſtand the faith and verity of God, let us glory as much as we can: and who in the world will ſeal to this truth? El is alſo rendred by <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> God, <hi>Heb.</hi> 7.1. <hi>Gen.</hi> 14.20.</p>
+            <p n="1">1. By ſetting down <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> with the Article ὁ.</p>
+            <p n="2">2. Without the Article; in which the Sonne or Spirit, as come forth from God Jehovah, are ſet out; as Jehovah Zebaeoth, the Father, Sonne, Spirit, in the <hi>Hebrew, Jerem.</hi> 32.</p>
+            <p n="3">3. Somtimes <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>God the Father,</hi> conjunctly for diſtinction, 1 <hi>Pet.</hi> 1.2. diſtinguiſhing the Father from the other Elohims.</p>
+            <p n="4">4. Othertimes <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> diſtinguiſhing Jehovah from the Elohim the Father; and otherwhiles Jehovah from Elohim by <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Mark</hi> 12.29.</p>
+            <p n="5">5. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is ſometime put befoe <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſomtime after.</p>
+            <p n="6">6. Somtimes <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> alone, without <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Father without God, <hi>Joh.</hi> 10.36.</p>
+            <p>Concluſion 1. If God ſpeak not variouſly of himſelf, what need this variety of ſpeech?</p>
+            <p n="2">2. The variety of words in Hebrew comprehended under one in Greek, ſhews God did variouſly by that word ſet forth himſelf to the World.</p>
+            <p n="3">3. In this is the wiſdom of God, that could ſo by one word ſet forth ſo deep and ſweet a miſtery, as by many: in which God indeed is wonder<g ref="char:EOLhyphen"/>fully to be wondered at and admired.</p>
+            <p>Queſt. <hi>How ſhall ever any man clear and make plain this wonderful riddle this day to the World?</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> The Scriptures will clear all to us.</p>
+            <p n="1">1. That that in the Old Teſtament is ſpoken of and applied to the Elohims, and in the New is ſaid of God, underſtanding the Elohims.</p>
+            <p n="2">2. That in the Old Teſtament is applyed to Jehovah, and in the New to God, there underſtand Jehovah.</p>
+            <p>Obſerve well <hi>Coloſ.</hi> 2.29. unto the knowledge of God the Father and of the Lord Jeſus, diſtinguiſht by <hi>and</hi> as well from God as from Chriſt, but not by the Article ὁ, becauſe of the ſame nature of God, and one with him.</p>
+            <p>I know no ground to any ſolid objection in Scripture to this truth, but from <hi>Mark</hi> 12.29. Chriſt ſaid from <hi>Deut.</hi> 4.6. The Lord your God is one Lord, <hi>ver.</hi> 34. Thou ſpeakeſt to the truth; for one is <hi>Theos</hi> God, and there is not another: the Lord Jeſus ſaid, One Lord <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> the man One God <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: ſo that it ſeems they are one, for he is commended for his anſwer. But,</p>
+            <p n="1">1. He is ſaid to anſwer <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> underſtandingly, that is, he under<g ref="char:EOLhyphen"/>ſtood better then he ſpoke.</p>
+            <p n="2">2. He underſtood Chriſt what he ſaid, ſaying, he ſpoke to the truth, or as the truth was, yet he ſpake not as Jeſus ſpake, who ſpake as the Spi<g ref="char:EOLhyphen"/>rit ſpake by <hi>Moſes,</hi> ſo did not this man.</p>
+            <p n="3">3. Jeſus applies the one diſtinctly to <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> or Jehovah, he to <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> or the Elohim, which was not right in that place, becauſe Jehovah &amp; Elohim
+<pb n="8" facs="tcp:112662:7"/> were both in that place expreſſed as diſtinct.</p>
+            <p>Concluſion. In all this, the ſame Jehovah and the ſame Elohims ſpeak, and are revealed in the New Teſtament as in the Old: therefore they ſpeak ſo, and are to be underſtood ſo in the New as in the Old, or he is known of none. But to ſet forth this by example.</p>
+            <p n="1">1. When the Scripture ſpeaks of one God by adding <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> to <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as 1 <hi>Tim.</hi> 2.5. <hi>Gal.</hi> 3.20. <hi>Phil.</hi> 2.13. &amp;c. in all ſuch places you are one<g ref="char:EOLhyphen"/>ly warranted to applie it contractively to Jehovah, from <hi>Deut.</hi> 4.6. It is hereſie to ſay there is one God, that is, the Father onely, in which the other Elohims are excluded, 1 <hi>Cor.</hi> 8.6.</p>
+            <p n="2">2. And the reaſon why he ſays one God here, and not one Lord, is, becauſe Chriſt was now exalted and made Lord, and that title beſtowed on him, though inferior to the dominion of Jehovah.</p>
+            <p n="3">3. Becauſe <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> God is applied as the word to expound the Elohim by, it proves, that as the word Elohim under the Law-eſtate, was com<g ref="char:EOLhyphen"/>mon to the Elohims, ſo <hi>Theos</hi> under the Goſpel is that common term properly given to ſet forth the Father, Sonne and holy Spirit by.</p>
+            <p n="4">4. Hence 2 <hi>Peter</hi> 1.17. he that is the Chriſt received from <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>God the Father,</hi> without the Conjunction <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> intervening; here the par<g ref="char:EOLhyphen"/>ticular hypoſtaſis of the Father called God is mentioned.</p>
+            <p n="5">5. So 2 <hi>Tim.</hi> 1.2. <hi>Tit.</hi> 1.4. 1 <hi>Theſſ.</hi> 1.1. and not Jehovah, when as in <hi>James</hi> 1.27. God hath <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>and</hi> ſet between it and Father: Pure Re<g ref="char:EOLhyphen"/>ligion and undefiled before God and the Father; then by God is meant Jehovah and the particular Elohims of the Father; therefore expreſt, that whereas the Sonne came forth from God, and the Spirit, the Father a<g ref="char:EOLhyphen"/>bode in the bleſſedneſs and being of Jehovah without humiliation, <hi>Rom.</hi> 15.6. and thence diſtinguiſht.</p>
+            <p n="6">6. When the Father is mentioned alone without God the Father, the Elohim is underſtood, not Jehovah, <hi>John</hi> 10.30. <hi>I and the Father are one,</hi> which is as that <hi>Deut.</hi> 4.6. Jehovah thy Elohims are one, <hi>John.</hi> 14.16. <hi>I will aske the Father, John</hi> 8.18. <hi>The Father ſent him.</hi>
+            </p>
+            <p n="7">7. When it ſays, <hi>I am the God of thy Fathers,</hi> Acts 7.32. from <hi>Exod.</hi> 3.6. ye are to underſtand the Elohims, not Jehovah; nor the Elohim the Father, more then the Sonne or the holy Spirit, <hi>Gen.</hi> 17.6.</p>
+            <p n="8">8. From <hi>Acts</hi> 10.34. and <hi>Rom.</hi> 2.11. God is ſaid to be no accepter of perſons, which 2 <hi>Chron.</hi> 19.7. is aſcribed to Jehovah Elohims, as be<g ref="char:EOLhyphen"/>ing eſſential to God to be juſt, and proper to all the Elohims in that Eſſence.</p>
+            <p n="9">9. When God is ſimply ſpoken of, Jehovah is underſtood, as <hi>Mark</hi> 8.33. <hi>Thou ſavorest not the things of God,</hi> John 13.3. <hi>That he came forth from God, and returned to God,</hi> John 3.2. Luke 3.2. <hi>The word of God came to John,</hi> 1 Cor. 14.36. <hi>Thus</hi> Ezek. 21.1. <hi>The word of Jehovah came to</hi> Eze<g ref="char:EOLhyphen"/>kiel: and 18.1. and 17. 1. Iſa. 50.1. <hi>Thus ſaith Jehovah.</hi>
+            </p>
+            <p n="10">10. When worſhip is given to God, <hi>Acts</hi> 18.7.13. and 16.14. it is to be underſtood Jehovah, <hi>Matth.</hi> 4.10. <hi>Luke</hi> 4.8. from <hi>Deut.</hi> 6.13. <hi>Thou ſhalt fear Jehovah thy Elohims, and ſhalt ſerve him, and ſwear in his
+<pb n="9" facs="tcp:112662:7"/> Name,</hi> Deut. 10.20. <hi>Thou ſhalt fear Jehovah thy Elohims,</hi> &amp;c. 1. Cor. 14.25.</p>
+            <p n="11">11. When <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> God is ſet down without an Article as a diminutive, then the Sonne or Spirit which came forth from God, were ſent, and were leſs ſo then the Father are intended; or the Father, becauſe he alone without the Sonne and holy Spirit is not Jehovah.</p>
+            <p n="12">12. The Attributes ſet to God in the New Teſtament, direct us to whom to apply them, whether to Jehovah, or to the Elohims in general; the Spirit or Adonai in particular, as 1 <hi>Tim.</hi> 4.10. God is ſpoke of as the living God, <hi>Matth.</hi> 16.16. 1 <hi>Theſſ.</hi> 1.9. <hi>Heb.</hi> 9.14. by looking in<g ref="char:EOLhyphen"/>to the Old to whom that Title is attributed. Now the living God is at<g ref="char:EOLhyphen"/>tributed to the Elohims, <hi>Deut.</hi> 5.26. <hi>Who of all fleſh that hath heard the voyce of the living Elohims?</hi> and hence as of thoſe Elohims, <hi>John</hi> 1.4. the Son or Word is ſaid to have life in himſelf, <hi>John</hi> 5.26. <hi>As the Father hath life in himſelf, ſo he hath given to the Sonne, to have life in himſelf,</hi> &amp;c. In which he emptied himſelf as Mediator, acknowledging all he had to be from Father or Holy Spirit, he being in his Miniſtery.</p>
+            <p>Obj. <hi>Life is ſaid of the Father to be given the Son, therefore he is not equal.</hi>
+            </p>
+            <p n="1">1. <hi>Reſp.</hi> In Jehovah the Elohims are one, but among the Elohims by conſent, as parts and portions are as it were committed to each other, that one thereby may glorifie another: the Father by his part glorifying the Sonne, the Sonne the Father, <hi>John</hi> 17.1, 4, 5. and 8.54. <hi>John</hi> 16.4. the Spirit by his portion glorifies the Sonne.</p>
+            <p n="2">2. Theſe portions are ſo committed one to other, that one thereby is equal with the other, <hi>Phil.</hi> 2.6. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>equal,</hi> that is, equal in por<g ref="char:EOLhyphen"/>tion to God: hence <hi>John</hi> 5.22. <hi>all judgement by the Father is given or com<g ref="char:EOLhyphen"/>mitted to the Sonne, by which all men ſhould glorifie the Sonne as they glori<g ref="char:EOLhyphen"/>fie the Father;</hi> his portion equalizeth him to the Father. Hence alſo the knowledge of the times and ſeaſons are kept in the Fathers hands, as his part of portion <hi>Act.</hi> 1.7. which the Father hath ſet <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p n="3">3. The very out going of Jehovah in himſelf as a Father, was as a por<g ref="char:EOLhyphen"/>tion in that being to the Elohim the Father in Jehovah: ſo the Sonne in Jehovah is his portion to be the Sonne, by which he is ſaid to be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>John</hi> 5.18. but he ſaid God was <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> his proper Far<g ref="char:EOLhyphen"/>ther; making himſelf equal to God: ſo the Jehovah going forth in the Spirit, made the ſpirits portion equal with God.</p>
+            <p>Note, that is that Divine Glory, Honour, and worſhip <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> to Jeho<g ref="char:EOLhyphen"/>vah came to be given and diſtributed to the Father, Soe, and Spirit, thus gone forth in God, as to be called God, be God, and worſhipped.</p>
+            <p n="4">4. This is cleared from the uſe of the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Matth.</hi> 20.12. <hi>Theſe last have wrought but one hour, and thou hast made them equal with us,</hi> that is, not in proportion, as Mr. <hi>Biddle</hi> dreams, but in proportion; one hav<g ref="char:EOLhyphen"/>ing as much as another, <hi>viz.</hi> a penny: ſo alſo <hi>Luke</hi> 6.34. <hi>Acts</hi> 11.17.</p>
+            <p n="5">5. So that the Father having the knowledge of the times, which the Sonne hath not, makes not the Father greater then the Sonne; nor the Sonnes having all judgement, makes not him greater then the Father:
+<pb n="10" facs="tcp:112662:8"/> they having that in themſelves makes an equality among them, as Elo<g ref="char:EOLhyphen"/>hims, and one as Jehovah: all are Jehovahs, committed to the Elohims.</p>
+            <p n="6">6. In God is no form or proportion of parts, therefore equality cannot be attributed to God in ſuch a way as that, the ſence in that kinde would prove meerly carnal.</p>
+            <p>The portions of the Elohims in Jehovah to our underſtandings is ex<g ref="char:EOLhyphen"/>preſt, <hi>Prov</hi> 8.12. Wiſdom, Prudence and Knowledge, which ver. 22. Jeho<g ref="char:EOLhyphen"/>vah poſſeſt before his works.</p>
+            <p>There is one notable place to object from, 1 <hi>Cor.</hi> 8.6.</p>
+            <p>
+               <hi>Reſp.</hi> 1 <hi>Cor.</hi> 8.4. He ſaith in oppoſition to Idols who are nothing, that there is no God other then one in the World, which is ſpoke of the World Eſtate, ſignifying Jehovah.</p>
+            <p>Ver. 6. In the Church Eſtate to the Saints, is but the one God to them is a Father, Jehovah diſcovering himſelf in the Goſpel in the Father the Elohim in the excellent Majeſty, which the World knows not; in which the Church outſtript the World in divine manifeſtations of God, called a knowing God as revealed by the Son, or in his Son as a Father, it being revealed in the Goſpel-ſtate onely.</p>
+            <p>And the words to be read thus, <hi>ver.</hi> 6. But the one God to us is a Father, disjoyning Gods being as Jehovah to the World onely, but gone forth in himſelf a Father to the Church, revealed in the Goſpel by his Sonne. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Now whereas the Tranſlators place the Verb Subſtantive as underſtood before <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſaying, But to us is one God the Father, it ought to be placed between <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> &amp; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, God and the Father: but to us the one God is a Father.</p>
+            <p n="1">1 Or they make the God in the world, and the Church two.</p>
+            <p n="2">2 By this diſtinction God is diſtinguiſht according to the diſtinctive <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, but not in his Eſſence, but Goſpel-manifeſtation of himſelf to belie<g ref="char:EOLhyphen"/>vers, as a Father in the Son, more pretious then as a Creator.</p>
+            <p>
+               <hi>Joh.</hi> 10.34, 35. <hi>Is it not written in your Law, I have ſaid ye are Gods? If he have called them Gods to whom the word of God came, and the Scripture can<g ref="char:EOLhyphen"/>not be diſſolved,</hi> &amp;c.</p>
+            <p n="1">1 <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Gods here anſwers to Elohim, <hi>Pſal.</hi> 82.6. and proves the word from <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Gods, to be of the plural number.</p>
+            <p n="2">2 The <hi>Pſal. ver.</hi> 1. proves it to concern Judges, judging by Gods Word, and not God to be worſhipped, but men honoured of God.</p>
+            <p n="3">3 Called Gods, becauſe intruſted with that act was proper to God, as his vicegerents in judgeing, juſtifying, condemning, and ſentencing to death: and yet ſuch but <hi>nomine, non re.</hi>
+            </p>
+            <p n="4">4 Theſe, becauſe inſtituted of God, are called Gods: when other Judges ruling by other Laws, are called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Lords, and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> oppoſed to Elohim, <hi>Eſa.</hi> 26.13. becauſe they ſat not as the Elohim in the ſeat of God as Gods, which is the higheſt of all honour.</p>
+            <p>As for 1 <hi>Cor.</hi> 4.5. the many Gods in Heaven, as Sun, Moon, Stars; and the Lords, <hi>Saturn, Mars, Venus, Mercury.</hi> Many Gods in earth,
+<pb n="11" facs="tcp:112662:8"/> 
+               <hi>Rom.</hi> 1.23. worſhipping forms of men, of fowls, of four-footed beaſts, and creeping things; as appeares by what the Apoſtle hinted at <hi>ver.</hi> 4. where he ſaith, that <hi>an Idol is nothing in the world:</hi> ſo that Idols are in this text clearly opppoſed to the true God.</p>
+            <p>Queſt. <hi>If in portion the Son be equal with God,</hi> Phil. 2.7. <hi>how comes he to be leſs then the Father, the Father greater then he? which muſt be ſaid of his divine nature, as he was the Son, in relation to God his Father,</hi> Joh. 14.28. <hi>when again he ſaith,</hi> The Father and I are one.</p>
+            <p>
+               <hi>Reſp.</hi> 1. In the beginning of the way of God, <hi>viz.</hi> his going forth in himſelf, <hi>viz.</hi> Jehovah in the Elohims, Father, Son, and Spirit, were one and equal, as in the uncreated being of God.</p>
+            <p n="2">2. But in the goings forth of God, came to be inequality between the Father that never came forth, and the Son which came forth from God, <hi>John</hi> 13.3. <hi>John</hi> 16.27, 30.</p>
+            <p>And the Spirit which cometh forth from the Father, <hi>John</hi> 15.26. and 14.26.</p>
+            <p n="3">3. This going forth from God is a ceaſing, as it were, the uſe of, and injoyment in it ſelf, the injoyments of its portions as God for a time, as it were ſetting themſelves apart from it, called an emptying himſelf, <hi>Phil.</hi> 2.7. that he might become a ſervant.</p>
+            <p n="4">4. He came into the world, <hi>Joh.</hi> 16.28. that is, into the ſtate of creatures in man: to clear which glorious myſtery of God, no Scripture hath that fulneſs in it, that <hi>Phil.</hi> 2.6, 7, 8. hath in it, which is much abuſed, and miſ-underſtood of men. I ſhall therefore the more fully ſpeak there<g ref="char:EOLhyphen"/>unto. And the rather, becauſe as the Son was ſent, the Spirit was ſent: as the Son came forth from the Father, the Spirit did: as the Son took on him the form of a ſervant, ſo the Spirit in becoming the advocate of Gods elect: whence this text, clearing the equality in the eſtate of the Sons inequality with God, proves the Spirits alſo, and ſtops the mouth of adverſaries and blaſphemers: proving that that was to be done in the Son of God, and yet not deſtroy his divinity or equality in being, which may alſo be done in the holy Spirit, and not deſtroy his divinity or equa<g ref="char:EOLhyphen"/>lity in being to God.</p>
+            <p>The firſt and main objection is from <hi>ver.</hi> 5. where it is ſaid, <hi>Let the ſame mind be in you, which was alſo in Christ Jeſus:</hi> and 1 <hi>Tim.</hi> 2.5. makes appear, what was ſpoken of Jeſus Chriſt, was ſpoken of man, and not God.</p>
+            <p>
+               <hi>Reſp.</hi> By Jeſus Chriſt is meant ſometimes, not the humane nature, or the Son of man, but the Son of God alſo, and indeed, as Chriſt when he asked the Diſciple <hi>Peter,</hi> had this confeſſion, <hi>Mat.</hi> 16.16. <hi>Thou art Christ the Son of the living God.</hi> The one is not a foundation to build the Church on, to ſtand by without the other. Whatever Mr. <hi>Biddle</hi> dreams of, his doctrine will come to nothing: for he that in Scipture is the Son of man, is called the Son of God alſo.</p>
+            <p>Both are intentionally ſpoke of, though the Son of God is not mentio<g ref="char:EOLhyphen"/>ned: for the doctrine of the Apoſtle being to teach men from what in
+<pb n="12" facs="tcp:112662:9"/> Chriſt was to be imitated, that is, his humility; but as God they could not empty themſelves by becoming ſervants, becauſe not equal with God. I ſhall divide the truth, it dividing it ſelf,</p>
+            <p n="1">1. Into what was ſaid of, and was done in the divine nature or being, as Son of God.</p>
+            <p n="2">2. Into what was done in the humane nature, as Son of man.</p>
+            <p>That was ſaid of, and done in the humane nature of the Son, is laid down, <hi>Eph.</hi> 2.6, 7.</p>
+            <p>
+               <hi>Who being in the form of God, thought it no robbery to be equal with God. But be emptied himſelf, taking the form of a ſervant.</hi>
+            </p>
+            <p n="1">1. The form of God, is the eſſence of God; God being uncapable of any other form, becauſe immaterial; in which form the Son of God ſubſiſts, even as the Father and Spirit ſubſiſt, <hi>viz.</hi> the Elohims in Jeho<g ref="char:EOLhyphen"/>vah: ſo that his equality is not in the form; therein is a oneneſs, the Elo<g ref="char:EOLhyphen"/>hims are one Jehovah, <hi>Deut.</hi> 4.6.</p>
+            <p n="2">2. Nothing can be in the form of God, and not be God, as here <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which ſignifies a ſubſiſting, or real being in that form, as the being of man is in his material and immaterial formes of body, Soul and Spirit; ſo that that which is the form and being of God, is the form and being of the Son, who is God, as the Naturaliſts ſay, <hi>forma dat eſſe ſub<g ref="char:EOLhyphen"/>jecto,</hi> ſo the form of God here, is the being of God.</p>
+            <p n="3">3. To underſtand the being in the form of God, to be his exerciſe of divine power in working miracles, as if God himſelf had been on earth, is a corrupting the text: for the exerciſe of the divine power is not the form of God, nor God; much leſs a being in that form: it's a manifeſtation of God, but not a form of God.</p>
+            <p n="4">4. Thus his being in that form, made him equal to God; by God here in eſpecial manner, the hypoſtaſis of the Father being meant; becauſe that abode in the increated eſtate and form of God, and came not forth into the world, as the Son and Spirit did.</p>
+            <p n="1">1. Not being in that form, ſo the Father, God, and Son are one.</p>
+            <p n="2">2. But his part in and of that form, was equal with the Fathers.</p>
+            <p n="3">3. The glory given to him as Elohim in all ſervice, ſacrifices, worſhip from men is equal, as in all the Levitical diſpenſations Jehovah hath the Elohims uſually added by an indefinite term, or common words, ſhewing one had no more glory added to it, then the other in all their ſervices, becauſe done to them in Jehovah.</p>
+            <p n="4">4. This his being in the form of God, kept him (in all his equalizing himſelf to God) free from robbery, that is, from any unjuſt violence offered to God in his glory or honor, by taking, divine glory and honor to himſelf equally with God from man or Angel, being equal with God, that is, the Father, in giving to, and doing good for them, and in giving be<g ref="char:EOLhyphen"/>ing to them.</p>
+            <p>Note, we have ſtated the true nature and excellency of his being in himſelf by the disjunctive <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> whence he ſhews,</p>
+            <p n="1">1. How this admirable or wonderful being in the form of God, pre<g ref="char:EOLhyphen"/>pared
+<pb n="13" facs="tcp:112662:9"/> it ſelf as God to ſave men.</p>
+            <p n="2">2 Which was done in emptying it ſelf, which was his work diſtinct from the Fathers, <hi>John</hi> 5.17. he being now on the work of redemption: in creation, they wrought as one.</p>
+            <p n="1">1. Shewing, though he were himſelf ſtill, that is, in the form of God, God, he and the Father are one.</p>
+            <p n="2">2. Yet he emptied himſelf of his equality with God, <hi>John</hi> 14.28.</p>
+            <p n="3">3. He emptied himſelf: the Father emptied him not, nor any other.</p>
+            <p n="4">4. This his emptying himſelf did not deſtroy himſelf; it was but a laying aſide, as it were, his robes for a time.</p>
+            <p n="5">5. This emptying himſelf did but prepare a way for him to take upon him the form of a ſervant, which he could not have done, had he not emptied himſelf firſt; ſuch was his form, his being, and equality with God, that it could not ſtand with his ſtate to be in any thing infe<g ref="char:EOLhyphen"/>rior to him: in which his divinity was not idle, as Mr. <hi>Biddle</hi> objects.</p>
+            <p>He that was in the form of God, he took on him the form of a ſervant, even as God.</p>
+            <p n="1">1. The form of a ſervant is the becomming of one man bound to ſerve another, and to be at his diſpoſing, as to his Lord; in which he is a ſervant; and he that he is bound to, is become a Lord or Maſter; and is the ſtate of bondage, which was ſaid of Chriſt, <hi>Gal.</hi> 4.4. in that the Son made of a woman, was made under the Law; and ſo nothing differs from a ſervant, though Lord of all.</p>
+            <p n="2">2. As a ſervant, ſo he undertook in the humanity to do all he did: he came as ſent by a Maſter, as appears, <hi>Luke</hi> 14.17, 22, 23.</p>
+            <p n="3">3. Hence he ſpake nothing, but what he heard; what he did, he did as his Maſters work he gave him to do, and not as his own: in which he was leſs then the Father, <hi>John</hi> 14.28.</p>
+            <p n="4">4. He took it on him of himſelf, the Father put it not on him; ſo that it is not believed God could do what he did for poor man, the Son ma<g ref="char:EOLhyphen"/>king it his work to empty himſelf, and ſerve the Father in mans ſtead; a work below the nature of God, and diſtinct from the Fathers, <hi>Joh.</hi> 5.17.</p>
+            <p n="5">5. If this had been ſpoke of man Chriſt, it had been no more but his duty; nay it had been its honor to be a ſervant to God, as it is to all Angels and other creatures.</p>
+            <p>But he that is in form of God, he empties himſelf to take on him the form of a ſervant, who owed no ſervice to any; which is not to be ſaid of man, Angel, or other created being.</p>
+            <p n="6">6. All this was done in the divine nature, before he aſſumed the humane nature: all which comes in the following words to be diſtinctly ſpoken of.</p>
+            <p n="7">7. He the divine being <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, made, that is, a ſervant, in the like<g ref="char:EOLhyphen"/>neſs of men; that is, ſo a ſervant to God in all things, as other men are ſervants to their God, yea, to thir Maſters, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>Ver. 8. <hi>And in habit being found as man, he humbled himſelf, and became obedient to death, the death of the Croſs.</hi> In which is that was done in the humane nature.</p>
+            <p n="1">
+               <pb n="14" facs="tcp:112662:10"/>1. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which was the outſide appearance of Jeſus Chriſt; he was as man ſubject to death, hunger, wearineſs, ſcorn, reproach, and ſhame, as other men, being man of the virgin.</p>
+            <p n="2">2. In his <hi>outſide from or faſhion he is as a man,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> here diſtinguiſheth him from the common ſtate of men, born in ſin; and again, becauſe not begot by man, but made by the holy Spirit.</p>
+            <p n="3">3. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (as) a man, ſomtimes may be uſed to prove the reality of his being man as man is, or as other men are.</p>
+            <p n="4">4. He was found in ſcheme or figure: a term proper to a body, as man: that is, men ſaw God in man; which they the Jews long looked for, and now found him in figure as man. <hi>Joh.</hi> 1.46. <hi>Philip</hi> tells <hi>Nathanael, We have ſound him whom Moſes wrote of in the law, and the prophets.</hi>
+            </p>
+            <p n="5">5. He humbled himſelf in the humane figure, or ſumitted himſelf, be<g ref="char:EOLhyphen"/>ing made obedient to death, the death of the croſs.</p>
+            <p n="1">1. He ſubmitted himſelf to death. <hi>Joh.</hi> 10.18. <hi>No man taketh my ſoul from me, but I lay it down of my ſelf. I have authority to lay it down, and I have authority to take it again. This command I received from my Father.</hi>
+            </p>
+            <p n="2">2. He was obedient: the Father commanding him to do it, did it, though he could avoid it.</p>
+            <p n="3">3. He humbled himſelf in it, becauſe he had not ſinned; and death is the wages of ſin onely: ſo that he that hath no ſin, ought not to die.</p>
+            <p n="4">4. He was obedient to the death of the croſs, becauſe that death of all other was an accurſed death. <hi>Gal.</hi> 3.13.</p>
+            <p>Now from theſe, that I may ſtop the mouth of the adverſary and the gainſayer,</p>
+            <p n="1">1. He, in that he was equal with God, and as God, to be a ſervant, of the Divine nature it's ſaid <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, he emptied himſelf. Therefore,</p>
+            <p n="2">2. He as man <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, he humbled himſelf to death.</p>
+            <p n="1">1. This <hi>he</hi> as God was <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, in the form of God.</p>
+            <p n="2">2. As man, he was <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, in figure man, as man.</p>
+            <p n="1">1. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, he is found in form as man.</p>
+            <p n="2">2. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, he is exiſting or being in the form of God.</p>
+            <p n="1">1. As God, he took on him the form of a ſervant, having emptied him<g ref="char:EOLhyphen"/>ſelf to do it, that he might become ſo.</p>
+            <p n="2">2. As man, he became obedient to the death, the death of the croſs.</p>
+            <p>
+               <hi>Concluſion.</hi> What is ſaid of the Divine nature, cannot be applied to men or angels.</p>
+            <p n="2">2. What is ſaid of the Humane, cannot be applied to the Divine.</p>
+            <p n="3">3. Hence it is ſaid, <hi>Therefore God,</hi> Jehovah, not <hi>the Father</hi> alone, <hi>hath exalted him,</hi> the man that humbled himſelf to death, the death of the croſs; and he hath the <hi>name,</hi> that is, the Soveraignty as Lord in the Church.</p>
+            <p n="4">4. In this exaltation of the man Jeſus, the Son of God had no hand, becauſe he emptied himſelf, that is, in this work he ceaſed to act as Elo<g ref="char:EOLhyphen"/>him, though in Jehovah, becauſe united to himſelf; it being the work of the Father and Spirit herein to glorifie the Son, and not the Son to glo<g ref="char:EOLhyphen"/>rifie himſelf, <hi>John</hi> 17.1.</p>
+            <pb n="15" facs="tcp:112662:10"/>
+            <p>Joh. 8.54. <hi>If I glorifie my ſelf, my glory is nothing: it is the Father that glorifieth me, whom ye ſay is your God.</hi>
+            </p>
+            <p>Sayes Mr. <hi>Biddle, Was his divine nature idle that time?</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> No, it was then emptying it ſelf; a work hard for man to do. What then think you? Is this to be looked on as done in God? a work the world will ſay is not to be done of him is God, and be God: <hi>John</hi> 5.17. <hi>The Father works, and I work:</hi> the Son in the work of Redemption, works a diſtinct work from the Fathers, when in the Creation they wrought together.</p>
+            <p n="6">6. This example was manifeſt, as Mr. <hi>Biddle</hi> would have it, before he was commanded, ſent, and did the works he did in the name of him that ſent him, and not in his own name.</p>
+            <p>But to clear this point more fully.</p>
+            <p>
+               <hi>John</hi> 16.27. <hi>The Father himſelf loveth you, becauſe ye have loved me, and have believed that I came forth from God.</hi> Here the Father is the Elohim, God Jehovah, whence they believed that the Son came from.</p>
+            <p n="2">2. Ver. 28. <hi>I came forth from the Father, and came into the world.</hi>
+            </p>
+            <p>Note, He is ſaid <hi>to come forth from</hi> Jehovah, and <hi>from</hi> the Father, as two things intended by the holy Spirit.</p>
+            <p n="1">1. In which was indeed his emptying himſelf.</p>
+            <p n="2">2. Had he abode with Jehovah, as the Father did, he could not have been emptyed.</p>
+            <p n="3">3. Had he abode with the Father, as he was with the Father, he could not have been a ſervant; it being that ſtate that is oppoſed to the ſtate of Sons, and condition of Sonſhip, <hi>John</hi> 17.5.</p>
+            <p n="4">4. He came forth, therefore Jehovah and the Father were not preju<g ref="char:EOLhyphen"/>diced by his ſo coming forth, and by his ſerving: no, he glorified him.</p>
+            <p n="5">5. His coming forth from God, proves he was in God, and God, as Jehovah is God; again, he came forth from the Father, who was ſo in God and with God, as the Father was, <hi>John</hi> 1.1, 2.</p>
+            <p n="6">6. Hence the coming forth from God, is the ſignifying of his emana<g ref="char:EOLhyphen"/>tion to be from an uncreated eſtate and being, and that this very uncre<g ref="char:EOLhyphen"/>ated eſtate and being, came into the world as into a ſtate or being con<g ref="char:EOLhyphen"/>trary to that he came from, being a created eſtate, which comprehends Angels and all creatures contained in Heaven, as well as the Earth, be<g ref="char:EOLhyphen"/>ing part of the World.</p>
+            <p n="7">7. This word <hi>world</hi> in ſpecial reſpects the manhood of Chriſt, which indeed is the Microcoſme, or the Worlds Repreſentative, having in it ſelf, in its Spirit, an off-ſpring of God, and in the body a being of earth, joyned in one.</p>
+            <p n="8">8. In this coming forth from God and from the Father, he made him<g ref="char:EOLhyphen"/>ſelf leſs then the Father, who came not forth from God.</p>
+            <p n="9">9. No creature ever is ſaid to come forth from God Jehovah, nor none but the Elohim, the Father, Son, and Spirit, are ever ſaid to be in him. So now the Elohims are ſaid ſo to be in him, as to be him, and he to be them: the Creatures are ſaid to be God, as <hi>contentum in continenti;</hi> but not in
+<pb n="16" facs="tcp:112662:11"/> his being ſo, as that himſelf cannot be without them: nor are the moſt glorious Creatures ever ſaid in their very being to come forth from God.</p>
+            <p n="10">10. In that he came into the World or Man, he yet made himſelf more inferior to the Father: <hi>John</hi> 18.37. he is ſpoke of as <hi>man born, and as God, by his coming into the World to witneſs to the truth.</hi>
+            </p>
+            <p>
+               <hi>Concluſion:</hi> he in man, is the ſame he that came forth from God and the Father into the World.</p>
+            <p n="2">2. He is ſpoken of diſtinctly from God and the Father, in his coming forth from him, as from man, in his coming into the world. <hi>Iſaiah</hi> 9.6. In the child born is the humanity; in the Son given, the divinity ſet forth of the Son, <hi>John.</hi> 3.16.</p>
+            <p>The third Teſtimony by which, as by three witneſſes, this truth is fully confirmed.</p>
+            <p>
+               <hi>Heb.</hi> 2.6. <hi>He took not on him ought of Angels, but he took the ſeed of A<g ref="char:EOLhyphen"/>braham.</hi> In which is ſignified,</p>
+            <p n="1">1. That he that took the ſeed of <hi>Abraham,</hi> was able to have took the nature of Angels on him, had it been his will and pleaſure.</p>
+            <p n="2">2. Had he took the nature of Angels to him, it had been inferior to him that took it, as the nature of man he took was to him.</p>
+            <p>The Faker, and that he took to himſelf, was not the ſame nature: he that took was greater than that was taken by him.</p>
+            <p n="4">4. This is the ground why the Scripture uſeth that expreſſion in many places, <hi>Of whom Chriſt according to the fleſh came,</hi> Rom. 9.1. ſignifying Chriſt had another way of coming, then that according to the fleſh, which was his coming forth from God: according to the fleſh, man; accor<g ref="char:EOLhyphen"/>ding to his coming forth from God, he was God.</p>
+            <p>And here I cannot paſs by Mr. <hi>Biddles</hi> paradoxical expoſition, made on <hi>Rom.</hi> 1.3, 4. compare <hi>Heb.</hi> 9.14. <hi>Who through the eternal Spirit offered himſelf without ſpot to God:</hi> which he compares with the ſpirit of holineſs, and indeed are one, but not as he makes them; who by the eternal Spirit underſtands not the Spirit God, but the body of Chriſt made a ſpirit.</p>
+            <p n="1">1. The whole Scriptures ſay not, that the Body of Chriſt riſen, or any other, is made a ſpirit, but a ſpiritual body concretive, not a ſpirit, 1 <hi>Cor.</hi> 15.44. which is done, in that mortal ſhall put on immortality, corrupti<g ref="char:EOLhyphen"/>ble incorruption.</p>
+            <p n="2">2. <hi>He offered himſelf to God:</hi> which ſure, if Mr. <hi>Biddle</hi> dreams not him<g ref="char:EOLhyphen"/>ſelf, was his Body, Soul, and Spirit, all according to the fleſh, by an e<g ref="char:EOLhyphen"/>ternal ſpirit; which was not by himſelf, but by the Spirit as diſtinct from himſelf, man which was offered up.</p>
+            <p n="3">3. By this ſpirit of holineſs, or divine being, he was declared to be the Son of God to <hi>Thomas,</hi> who ſeeing him was dead, riſen again; ſaw that he was thereby declared to be the Son of God in power, <hi>John</hi> 20.28. death not being able to hold him, becauſe ſtronger then it.</p>
+            <p n="4">4. This ſpirit was the divine nature or being in Chriſt, and therefore not called the holy Spirit, of which he ſaith, <hi>John</hi> 2.19. <hi>Destroy this Tem<g ref="char:EOLhyphen"/>ple, and in three dayes</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>I will raiſe it:</hi> it is not ſaid the holy
+<pb n="17" facs="tcp:112662:11"/> Spirit, or the Father, or God will raiſe it; but, I will raiſe it. And that theſe words made <hi>Thomas</hi> call him Lord and God, appears from <hi>ver.</hi> 22. therefore when he was riſen from the dead, his Diſciples remembred that he ſaid this unto them, and they believed the Scripture, and the word that Jeſus had ſpoken; who looked on him, as raiſing himſelf. And thus the high Prieſts and Phariſees, <hi>Mat.</hi> 27.63. <hi>This deceiver ſaid whilſt he was yet living, After three dayes</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>I will raiſe it again:</hi> and then <hi>ver.</hi> 64. <hi>and his diſciples ſteal him away, and ſay,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>he is riſen from the dead:</hi> and <hi>John</hi> 10.18. he ſaith, <hi>I have power to lay down my life, and I have power to take it again.</hi> Now in that he ſaith, <hi>No man taketh my ſoul from me,</hi> ſhews the reaſon why the humanity cryes out to the divinity, <hi>My God my God why haſt thou forſaken me?</hi> in that he left it to death: which whilſt it ſupported it, it could not die, nor be overcome of death.</p>
+            <p>This is notably illuſtrated in the healing the woman diſeaſed with the bloody Iſſue; who being ſecretly healed, Chriſt ſaid, <hi>That he ſound ver<g ref="char:EOLhyphen"/>tue went forth from him:</hi> which proves, that Chriſt was very ſenſible of the going forth of vertue, and the deſiſting of vertue, in it ſelf, <hi>Luke</hi> 8.46. how ſenſible muſt it then be, when life muſt be laid down and given up by it ſelf to death?</p>
+            <p>
+               <hi>Mat.</hi> 27.46. Hence in the Greek it is, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Eli, not Jeho<g ref="char:EOLhyphen"/>vah nor Elohim, without an Article ſignfying a diminitive, and proper to God; as <hi>came out from God,</hi> properly owned of the humanity as its God; who by its withdrawing vertue from him, felt himſelf weakned, and given up thereby to death: compare <hi>Acts</hi> 2.24. and 4.10. and it proves Jeſus to be God, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>Queſt. <hi>How came this divine nature into the humane?</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> In the holy Spirits making him according to the fleſh: the Son is foretold, <hi>Pſalm</hi> 72.6. prophetically, <hi>to come down like rain into a fleece of wool;</hi> which was done in his being in the womb of the Virgin.</p>
+            <p>I come now to ſpeak of that Mr. <hi>Biddle</hi> calls the third perſon of the holy Trinity, <hi>viz.</hi> the holy Spirit, which he ſometimes takes to be that ſpirit in Scripture, which is onely called the ſpirit, and not the holy Spirit, which diſtinguiſheth them clearly thereby; it being no other then the humane ſpirit of the Lord Jeſus Chriſt.</p>
+            <p>But that the Spirit the holy, or the holy Spirit is of the Elohims, and in Jehovah, and ſo indeed of the Trinity, being one, of one and the ſame nature, having one and the ſame name with the Father and Son, ap<g ref="char:EOLhyphen"/>pears:</p>
+            <p n="1">1. Elohim is of the plural number, not dual; and ſo more then two are meant thereby.</p>
+            <p n="2">2. And no more then three, becauſe the old and new Teſtaments onely ſpeak of three as one in Jehovah: of the Father abiding in the excellent glory, and the Son and the holy Spirit coming forth from thence, and no more, 1 <hi>John</hi> 5.7.</p>
+            <p n="3">3. So that to preach from the Goſpel a Trinity conſiſting of a divine and infinite being, and of a Man-God, and an Angelical
+<pb n="18" facs="tcp:112662:12"/> created ſpirit, is a thing forbidden of God, <hi>Exod.</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>0.2. <hi>Thou ſhalt have no other Elohims before me:</hi> that is, no other but thoſe that are in the one Je<g ref="char:EOLhyphen"/>hovah; which theſe are not, being indeed feigned things and falſe, not in Jehovah, nor Jehovah; he himſelf ſays the contrary of them. And in this Scripture, that Elohims in Jehovah are more then two, is clear; and that to render Elohims by <hi>God,</hi> as now taken, is not according to God.</p>
+            <p>And as for that ſuppoſed diſtinction of <hi>the Spirit of God,</hi> and ſo he is thereby diſtinguiſhed from God, it is no more truth, then if a man ſhould ſay, that the Scripture ſpeaking of the ſpirit of man, hath thereby diſtin<g ref="char:EOLhyphen"/>guiſhed it from man; when man is not nor can be man without his ſpi<g ref="char:EOLhyphen"/>rit: ſo nor is the true God God to any without his ſpirit, 1 <hi>Cor.</hi> 2.11. As for the Spirit's not ſtaying within God, as mans within him, it is to ſhew the infinite being of the Spirit, whoſe abode and being in God, is not as mans ſpirit in his minde, as confined to a place in God.</p>
+            <p>The Son, in coming out from God, the uncreated and incommunicable ſtate of the Elohims in Jehovah, came into the world, uniting himſelf to the man Chriſt Jeſus, or to the created being of man, in which he came into the world: but as for the Spirit, he came forth from the Father, in the uncreated and incommunicable ſtate of Elohims, <hi>Joh.</hi> 16.27, 28. and as the Son is diſtinctly ſaid to come forth from the Father, <hi>Joh.</hi> 15.26. But he is not ſaid to come forth from God as the Son is, nor to come into the world, that is, that he is become one with any created ſubſtance. Hence it was the <hi>form</hi> of a dove, not a dove, he was ſaid to deſcend in; it being given for a ſigne to reveal Chriſt by, that the Spirit muſt viſibly deſcend on one man amongſt many, ſo that it may from all other ſet him out to <hi>John</hi> to know him by. And then it muſt come from heaven, leſt men ſhould take the likeneſs of the dove to be an ordinary dove indeed; who is no more confined to heaven, then Jehovah is: where Jehovah is, his Spirit is as he is.</p>
+            <p>The end being this, as <hi>Joh.</hi> 1.32, 33. how vain is it to argue, That the Spirit goeth from one place to another, and is not infinite, and cannot be God? I hope Mr. <hi>Biddle</hi> will not ſay that the holy Spirit of God was confined to that dove-like ſhape: if not, what is all that he hath aſſerted therein? When Jehovah Elohims are ſaid to deſcend, <hi>Gen.</hi> 11.7. do they therefore go from one place to another in their eſſence?</p>
+            <p>Again, the Spirit of God is not ſaid to come into the world, as the Son is ſaid; he being not joyned to any nature created, as angels or men; much leſs may he be ſaid to be a creature, or a part of the world, as all creatures are whatever.</p>
+            <p>The very expreſſion of God, (<hi>Joel</hi> 3.1. <hi>Acts</hi> 2.17.) <hi>It ſhall come to paſs, ſays Jehovah, in the laſt days I will pour out of my Spirit on all fleſh,</hi> proves that what is ſaid of it, is not ſaid of any Angel or other created Spirit, it being not in their nature or being to be ſo poured out; who in us is ſtill the Spirit of God diſtinct from our ſpirits.</p>
+            <p>As for Mr. <hi>Biddle</hi>'s ſaying he was ſent by a man, he muſt firſt prove Jeſus Chriſt the Son of God is meer man; which is <hi>petitio principii;</hi> and then that he is leſs then the man Chriſt.</p>
+            <pb n="19" facs="tcp:112662:12"/>
+            <p>And to be ſent to ſee them: in which, as the Son, he humbled himſelf, and was leſs then the Father; &amp; leſs then the Son, who ſent him, <hi>Joh.</hi> 14.26.</p>
+            <p>And then he heard from him as man, when the Word indeed ſays, <hi>He ſhall take of mine,</hi> but not, <hi>He ſhall hear of me,</hi> Joh. 16.14. and in verſ. 13. <hi>What he ſhall hear, that he ſhall ſpeak:</hi> it is not ſaid, <hi>What he ſhall hear of me;</hi> in which there is theft from the Spirit. This hearing of the Spirit is not a hearing of creatures in the way of man, though our hearing helps to demonſtrate it ſymbolically.</p>
+            <p>My purpoſe is to be brief herein: conſider well, I pray. 2 <hi>Cor.</hi> 2.3. the <hi>Corinthians</hi> are <hi>an epistle of Chriſt, written not with ink, but with the Spi<g ref="char:EOLhyphen"/>rit of the living God;</hi> of which Spirit they were Miniſters, and by which they were quickned, verſ. 6. Verſ. 8. their Miniſtery is called <hi>the miniſtery of the Spirit,</hi> that reveals truth, teacheth, leadeth, ſanctifieth, comforteth, aſſiſteth, and helpeth infirmities; in a word, helps to profit by preaching, and aſſiſts in prayer to Jehovah.</p>
+            <p>Now leſt this ſpirit ſhould be thought to be the humane ſpirit of Chriſt, as in many places of Scripture; or a created ſpirit; verſ. 17. <hi>The Lord is the Spirit.</hi> By <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in the New Teſtament is meant either Jehovah, or Chriſt; but it appears that by <hi>the Lord</hi> here is meant Jehovah, who is that Spirit called <hi>The Spirit of the living God,</hi> verſ. 3. and that miniſtreth, verſ. 8. and therefore concludes, <hi>Where the Spirit of Jehovah is, there is liberty.</hi>
+            </p>
+            <p>Verſ. 8. he clears this, ſaying; <hi>We all with open face beholding the glory of the Lord, are changed from</hi> (or, <hi>changed into) the ſame image, from glory to glory, even as of</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>the Lord the Spirit.</hi>
+            </p>
+            <p n="1">1. See verſ. 3. the Epiſtle is Chriſts, written with the Spirit of the living God: on which is the riſe of the Apoſtles ſpeech; and <hi>the Lord Chriſt</hi> and <hi>the Lord the Spirit</hi> diſtinguiſhed.</p>
+            <p n="2">2. So here is the Lord Chriſt in the 18 verſe, into whoſe image men are changed as diſtinct, and admits not place for his Spirit of holineſs, and everlaſting Spirit.</p>
+            <p n="3">3. The Lord the Spirit, that is, Jehovah the holy Spirit, of whom this change is thus made in men, as the efficient cauſe thereof.</p>
+            <p n="4">4. Verſ. 8. The means how it's effected; and that is by the miniſtery of the Spirit. In which we may ſee, that the holy Spirit of God is the Lord Jehovah, though in his miniſtery: and though not called the <hi>holy Spirit,</hi> yet the <hi>Spirit of God;</hi> which Mr. <hi>Biddle</hi> diſtinguiſheth from God. Who yet humbled himſelf, not onely in beholding things above, but in beholding things on earth, ſo as to come forth from the Father to ſee them. <hi>Joh.</hi> 14.26.</p>
+            <p>And <hi>Joh.</hi> 16.13. he ſpeaks not of his own, but what he hears. He glo<g ref="char:EOLhyphen"/>rifies Jeſus Chriſt the Son of God, to man, <hi>Joh.</hi> 16.14.</p>
+            <p>In a word, he is ſent to carry on the work of God in ſaving man. The Father had begun, the Son had furthered, and now he comes to finiſh it, miniſtring life and power to the means appointed by the Lord Jeſus to be uſed in the revealing the Lord therein in power, which is called (2 <hi>Cor.</hi> 3.8.) <hi>the miniſtry of the Spirit.</hi>
+            </p>
+            <pb n="20" facs="tcp:112662:13"/>
+            <p>All which undertakings of the Spirit, do not deſtroy his Deity, nor be<g ref="char:EOLhyphen"/>ing, no more then that of the Sons undertaking for man: nor is there ap<g ref="char:EOLhyphen"/>parent in what he doth to deſtroy it, as in what the Son did, who came out from God, and from the Father, into the world; when it is not ſaid ſo of the Spirit, who, though he miniſtreth, is Jehovah the Spirit.</p>
+            <p>Object. <hi>But</hi> (ſays Mr. <hi>Biddle) There is but one Lord, therefore the Lord the Spirit is the Lord Jeſus.</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> There is indeed, by way of eminencie, but one man made Lord, of God, that is Jeſus Chriſt.</p>
+            <p n="2">2. This denies not Jehovah to be Lord, and ſo not the Lord the Spirit, who made Jeſus Lord and Chriſt.</p>
+            <p>I remember Mr. <hi>Biddle</hi> makes uſe of <hi>Joh.</hi> 17.3. <hi>This is eternal life, that they may know thee the onely true God, and Jeſus Christ, whom thou haſt ſent.</hi> Now, ſays he, here is no mention of the Spirit to be God, nor of the know<g ref="char:EOLhyphen"/>ledge of him to be eternal life.</p>
+            <p>
+               <hi>Reſp.</hi> 1. By <hi>God</hi> is meant here Jehovah, Father, Son, and Spirit.</p>
+            <p n="2">2. It is but onely Jeſus Chriſt intended, as diſtinct from the Son, ſpoke diſtinctly of, verſ. 1. &amp; 2.</p>
+            <p n="3">3. But if any plead the Son was ſent, and intended here; yet the Spirit is not excluded from Jehovah, who came not forth from God, though from the Father and the Son, becauſe as yet not diſtinctly ſent forth, the Spirit not coming forth until Chriſt was aſcended, <hi>Joh.</hi> 16.7. and 7.39.</p>
+            <p n="4">4. But, ſay they, this was ſpoken to the Father onely, as the onely true God. True, not excluding the Spirit and Son: onely this, he abode in the excellent glory; the Son came forth, and the Spirit was to come forth.</p>
+            <p n="5">5. By <hi>Father</hi> is not ſimply meant that hypoſtaſis in Jehovah called the Father, but Jehovah, that Elohim begetting the Son: nor the Son that hypoſtaſis of the Son the Elohim, but the Son Jehovah is begotten in Je<g ref="char:EOLhyphen"/>hovah the Father, yet all one Jehovah, in which the Father and Son are one; and the Father in the Son, and the Son in the Father. <hi>Joh.</hi> 14.11. <hi>Joh.</hi> 10.30.</p>
+            <p n="6">6. To know the Father to be an Elohim in Jehovah, is to know him to be the onely true God, as Jehovah: and to know the Son and Spirit to be Elohims in Jehovah, is to know them to be the onely true Jehovah. And this is no Barbariſm: for, <hi>Gen.</hi> 19.23. <hi>And Jehovah made fire and brimſtone rain on Sodom and Gomorrha from Jehovah:</hi> that is, Jehovah the Son, from Jehovah the Father; yet theſe are not two Jehovahs.</p>
+            <p n="7">7. He ſpeaking to the Elohim the Father, that he is the onely true Je<g ref="char:EOLhyphen"/>hovah, doth not deny the Spirit the Elohim Jehovah to be ſo alſo, becauſe he ſpeaks not of him: who knows one, knows the other, as Chriſt, <hi>Joh.</hi> 14.9.</p>
+            <p n="8">8. It was the operation or miniſtery of the Elohim the Spirit, to give the knowledge of the Father, and whom he had ſent, Jeſus Chriſt: and ſo he is implied, as well as Father, and Son Jeſus Chriſt.</p>
+            <p>But to take away offence from the world, the Spirit the Elohim was ſent, and came; and coming, came to miniſter, as appears by his title and deſcription of Advocate; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p n="1">
+               <pb n="21" facs="tcp:112662:13"/>1. His coming forth from the Father, his ſending, his title, ſignifie an in<g ref="char:EOLhyphen"/>feriority in him, aſſumed by him, in relation to him that ſent him, and in relation to us to whom he is ſent, being ſo far belowe him.</p>
+            <p n="2">2. As he is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, he is our miniſter, and his acts as ſuch are acts of miniſtery, called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the miniſtery of the Spirit; in which he emptied himſelf, that he might fill the Saints.</p>
+            <p n="3">3. Whatever acts of miniſtery he doth in the Saints, as his making in<g ref="char:EOLhyphen"/>terceſſion for the Saints with ſighs, <hi>&amp;c.</hi> they are acts of the Spirit as come forth from God, as the miniſtery of the Spirit.</p>
+            <p n="4">4. He came, and was ſent of God therefore, as the end of his coming.</p>
+            <p>Object. <hi>This is ſaid of the Son indeed: how can ye prove it of the holy Spirit?</hi>
+            </p>
+            <p>
+               <hi>Reſp</hi> The Son and Spirit, Elohims in Jehovah, are one Jehovah; ſo that one is equal with the other therein as God: ſo that what is humilia<g ref="char:EOLhyphen"/>tion in one, muſt be humiliation in the other.</p>
+            <p>Yea, the Spirit is the Spirit of the Son. The Son, if he be humbled and emptied, coming from God, ſo is the Spirit ſo alſo, in being ſent.</p>
+            <p>Again, his taking of Chriſts, and ſhewing it the believers, is his miniſte<g ref="char:EOLhyphen"/>ry: ſo that to deny the Spirit to be God, and yet to miniſter, is to deſtroy the glory of the miniſtery: for, the miniſtery of the Spirit is ſaid to be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, in glory, yea exceeding glory, 2 <hi>Cor.</hi> 3.8, 10.</p>
+            <p>Now fleſh reaſons, <hi>How can God be God, and a miniſter?</hi> Why he em<g ref="char:EOLhyphen"/>ptied himſelf. <hi>O how can that be?</hi> Yea, he took on him the form of a ſervant, and miniſtred to man, in prayer, ſighs, groans, words, tears, ſenſe, faith, aſſurance. Now, with <hi>Nicodemus,</hi> the natural man cryeth, <hi>How can theſe things be?</hi> Joh. 3.4. The Word ſays it; bleſſed art thou that belie<g ref="char:EOLhyphen"/>veſt: if not, the Word preached will not profit, becauſe not mix'd with faith in him that hears it. <hi>Heb.</hi> 4.1.</p>
+            <p>Object. <hi>O but how can he be God then?</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> 1. The form of a ſervant deſtroys not the being of the Son.</p>
+            <p n="2">2. He took it on him: ſo that he was that after he took it, as he was before. <hi>Matth.</hi> 3.17.</p>
+            <p n="3">3. He was not made, or formed, or emptied by any but himſelf. Now Reaſon in all, carries men to preſervation of themſelves in their being.</p>
+            <p n="4">4. The Father ſtill acknowledged the Son, in form of a ſervant, to be his ſon, <hi>Matth.</hi> 3.17. and the holy Spirit ſtill to be the ſpirit of God, though come out from God, and adminiſtring to the Saints.</p>
+            <p n="6">6. Such is the miniſtery of the Spirit, that nothing of any is accepted in any, but what the Spirit brings forth, <hi>Gal.</hi> 5.22. or rather, <hi>Rom.</hi> 14.17.</p>
+            <p n="1">1. If I pray, the Spirit makes interceſſion, <hi>Rom.</hi> 8 26, 27.</p>
+            <p n="2">2. If I profeſs Jeſus, it is not accepted, without it be done by the holy Spirit, 1 <hi>Cor.</hi> 12.3.</p>
+            <p n="3">3. If I offer up any thing to God, the Lord looks on the minde of the Spirit, as being approved of by him onely, <hi>Rom.</hi> 8.27.</p>
+            <p n="4">4. Hence, <hi>If I ſing, I will ſing with the Spirit; if I pray, I will pray with the Spirit.</hi> 1 Cor. 14.15.</p>
+            <p n="1">1. Laſtly, the Spirit ſent out to miniſter, ſtirs up the heart of man to
+<pb n="22" facs="tcp:112662:14"/> God: to which miniſtery God onely caſts his eye, and knows the minde of the Spirit, approves of it, as diſtinct from the creatures, not his own.</p>
+            <p n="2">2. The minde of the Spirit, as a miniſter, is to glorifie God and the Fa<g ref="char:EOLhyphen"/>ther, and the Son Jeſus Chriſt, to the creature he is ſent: and thus, as emptied of it ſelf, and a ſervant to Father and Son, he exalts them to the creature. Which minde of the Spirit is heeded of Jehovah in prayer, <hi>&amp;c.</hi>
+            </p>
+            <p n="3">3. He doth it as a miniſter, not as Jehovah, in this ſtate of his emiſſion, as the Son did: for, <hi>he ſpeaketh not of himſelf, but what he heareth:</hi> in which he is in form of a ſervant alſo.</p>
+            <p>As for the puzling Argument of <hi>Philo</hi> to <hi>Juſtin,</hi> from <hi>Acts</hi> 10.38. <hi>viz. If Chriſt were Creator, what need the Spirit be given to him to work miracles by?</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> 1. <hi>Juſtin,</hi> and ſo Mr. <hi>Biddle</hi>'s other Authors, held Jeſus to be the Son of God, &amp; the Creator; though as man inferior to God; yea, as Lord.</p>
+            <p n="2">2. The Son emptied himſelf; therefore the Father and Spirit muſt fill him, and fit him to do what he was to do in his miniſtery as a ſervant; who otherwiſe could do all things of himſelf, in heaven and earth, according to his will. In which he glorified the Father and Spirit, who again, after that miniſtery, glorifie him to the world. And ſo the Spirit alſo he em<g ref="char:EOLhyphen"/>ptied himſelf, when, being ſent, he ſpake nothing but what he heard; and then, that he took of Chriſts, and ſhewed the diſciples.</p>
+            <p n="3">3. Yet that the Spirit was not inferiour to the man Chriſt the Media<g ref="char:EOLhyphen"/>tor, appears in this, in that he ſaith, <hi>Joh.</hi> 14.16. <hi>I will pray the Father, and he ſhall give you another Comforter:</hi> when as God indeed he ſaith, (<hi>Joh.</hi> 16.7) <hi>I will ſend him to you.</hi>
+            </p>
+            <p n="1">1. Now as the Elohim was a common word to the hypoſtaſis in Jeho<g ref="char:EOLhyphen"/>vah, not one diſtinguiſhed from another: ſo <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; God the Father is cal<g ref="char:EOLhyphen"/>led God the Father: <hi>Gal.</hi> 1.3. <hi>Grace and peace be with you, from God the Father.</hi>
+            </p>
+            <p n="2">2. The Son is called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> God, <hi>Heb.</hi> 1.8. <hi>To the Son he ſaith, Thy throne, O God, is for ever and ever.</hi> The throne of God is the eſſence Jehovah, in which the Elohims are in their majeſtie.</p>
+            <p>As for <hi>Rev.</hi> 4.3. the throne is ſet in the Church, when he that ſate is ſaid to be like a Jaſper and Sardine ſtone, and a rain-bowe circling the throne in ſhew like a Smaragdin.</p>
+            <p>The Jaſper is green, ſignifying the ſtate of the Father, who abode in the excellent glory. The Sardin is of fleſhie colour, ſignifying the Sons aſ<g ref="char:EOLhyphen"/>ſuming humane nature. The Smaragdin is alſo green, and ſhews the Spirit never aſſumed any created nature, came not into the world, as the Son did.</p>
+            <p>Who as a rain-bowe runs round the throne, Jehovah being a ſpirit, <hi>Joh.</hi> 4.24. and the Spirit called <hi>The holy Spirit,</hi> and <hi>The Spirit of the Father,</hi> and <hi>The Spirit of the Son.</hi> Matth. 10.20. Gal. 4.6. Mark 13.11. and <hi>The Spi<g ref="char:EOLhyphen"/>rit of the Lord Jehovah.</hi> Luke 4.18. Iſai. 61.1.</p>
+            <p>That theſe three are intended, verſ. 8. is ſet down, in <hi>Holy, holy, holy,</hi> as alluding to Father, Son, and Spirit, as appears plainly, in ſaying <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that is, Jehovah Elohim, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which word doth ſpecifie
+<pb n="23" facs="tcp:112662:14"/> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> to be alluded to Elohim, becauſe (<hi>Gen.</hi> 1.1.) <hi>In the beginning the Elo<g ref="char:EOLhyphen"/>hims create the heaven and the earth.</hi>
+            </p>
+            <p>Again, it is clearly expreſt, that glory, honour, and praiſe is given to him, that is, the Elohims, the Father, Son, and Spirit equally.</p>
+            <p n="1">1. And the Son ſits with the Father in his throne, <hi>Rev.</hi> 3.21. which he doth not, if not ſet out in the Sardine appearance the Lamb is dead.</p>
+            <p n="2">2. Several appearances are not properly applied to the bleſſed being of God, who is without ſhadow of change; but as they ſerve to ſet out the Elohims in God.</p>
+            <p n="3">3. As for the Lamb, <hi>Rev.</hi> 5.6. he is as ſlain in the throne, that is, he is as dead to, and not capable of the glory proper to the Divine being of Jehovah Elohim.</p>
+            <p>And as for the Holy Spirit, it is called God, <hi>Acts</hi> 5.3, 4. as I have cleared in my expoſition on that place, <hi>Phil.</hi> 3.3. <hi>For we are the circumci<g ref="char:EOLhyphen"/>ſion,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>thoſe that worſhip the Spirit God.</hi> It is not <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as <hi>Rom.</hi> 1.9. And thoſe taught of the Spirit are ſaid to be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, taught of God.</p>
+            <p>And becauſe the variety of Gods ſpeech by <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> God may more clear<g ref="char:EOLhyphen"/>ly appear, I conceive it neceſſary to inſtance the ſame more largely.</p>
+            <p n="1">1. 1 <hi>Pet.</hi> 1.1, 2. is expreſſed <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, God the Father; which is that which is called the firſt perſon in the Trinity. 2 <hi>Cor.</hi> 1.2.</p>
+            <p n="2">2. <hi>Jam.</hi> 1.27. <hi>Pure religion and undefiled</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. here <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>and</hi> diſtinguiſheth between Jehovah, God, in which Son and Spirit gone forth; and the Father, abiding in Jehovah.</p>
+            <p>
+               <hi>Col.</hi> 3.17. proves the diſtinction more clearly: <hi>Whatever ye do in word or deed, do all in the Name of the Lord Jeſus, giving thanks to God,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>and the Father by him.</hi>
+            </p>
+            <p>If by God be one thing meant and the ſame with that of the Father, or by Father the ſame with God,</p>
+            <p n="1">1. Why are they both expreſt? <hi>Fruſtra fit plura quod fieri potest per pauciora.</hi>
+            </p>
+            <p n="2">2. Or why are they not always both expreſt? <hi>Col.</hi> 1.12. <hi>Giving thanks to the Father, who hath made us meet,</hi> &amp;c.</p>
+            <p n="3">3. Or why are they thus diſ-joyned by <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> here, and not elſewhere, in <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>;</p>
+            <p n="4">4. Why is there an article to <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, when Father and God are diſtinguiſht, and not an article when God the Father as of the ſame thing is ſpoken of? as <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, not <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. and ſo to Jeho<g ref="char:EOLhyphen"/>vah, <hi>ha El Haggibbor;</hi> to the Son diſtinct, <hi>El Gibbor.</hi>
+            </p>
+            <p n="5">5. To <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> there is an article <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> for emphaſis, as ſignifying Jehovah: but not <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, becauſe it is for diminution, the Father being but one of the Elohims, and having but his portion with the Son and Spirit in the eſſence of God.</p>
+            <p>And ſo ſpeaking of God the Father, he ſaith, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, not <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, unleſs <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> between as a diminutive.</p>
+            <p n="6">6. Indeed he ſets the article before <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Eph.</hi> 3.14. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the
+<pb n="24" facs="tcp:112662:15"/> Father, becauſe, <hi>verſ.</hi> 15. all fatherhood in heaven and earth is named from him. <hi>Matth.</hi> 23.9. <hi>One is your Father, which is in heaven.</hi> As Father, he is moſt excellent.</p>
+            <p n="7">7. Clearly in this ſpeech of God the myſtery of God is revealed, <hi>Col.</hi> 2.2. <hi>That their hearts might be comforted, being knit together in love, unto all riches of full aſſurance of underſtanding, to the acknowledgement of the myſtery</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>of the God and Father, and the Chriſt.</hi> So that as the Father and Chriſt are diſtinguiſhed by <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſo God and the Father.</p>
+            <p n="1">1. And ſaith that the myſtery is in God and the Father, as well as in God and in Chriſt.</p>
+            <p n="2">2. In the word <hi>God</hi> is comprehended the Spirit and Son, and the Fa<g ref="char:EOLhyphen"/>ther, expreſt as one in God, becauſe without an article added to the di<g ref="char:EOLhyphen"/>ſtinction, as Chriſt hath.</p>
+            <p n="3">3. To underſtand by <hi>God,</hi> the Father onely, and by <hi>the Father,</hi> God onely, is to deny the Son, and to unthrone the Spirit, and to take their being God from them: which thus underſtanding the Scriptures alone preſerves to them.</p>
+            <p>And as for the Trinity that Mr. <hi>Biddle</hi> grounds from <hi>Epheſ.</hi> 4.4, 5, 6. <hi>One Spirit, one Lord, one God and Father of all,</hi> &amp;c.</p>
+            <p n="1">1. That Spirit is not ſaid to be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, but ſpirit onely, and in<g ref="char:EOLhyphen"/>deed alludes to Chriſts humane ſpirit; of which it is ſaid, <hi>If any have not the Spirit of Chriſt, he is none of his.</hi> So 2 <hi>Cor.</hi> 13.5.</p>
+            <p n="2">2. For as that one body is Chriſts, or Chriſt myſtical; ſo the Spirit of that body myſtical is Chriſts, by which they are of one faith, one minde, <hi>&amp;c.</hi> and the ſpirit by which men received Baptiſm, which was not the ho<g ref="char:EOLhyphen"/>ly Spirit, as appears, 1 <hi>Cor.</hi> 12.13. compared with <hi>Acts</hi> 8.12, 15, 16.</p>
+            <p n="3">3. As the ſpirit and body reſpect the Church, and are one, made one by that one ſpirit, as the Father and Son are one in that one eſſence of God.</p>
+            <p n="4">4. As there is one body and ſpirit in the Church, ſo there is one Lord over it; which Lord is not the Son of God, but that made Lord that di<g ref="char:EOLhyphen"/>ed and ſuffered death, <hi>Acts</hi> 2.36. in whom men are to believe, as that he is the Meſſiah of God, and into whoſe name Jeſus men are to be baptized, and to have ſins remitted therein.</p>
+            <p>There is one God, that is, Jehovah, <hi>verſ.</hi> 6. in which the Trinity is com<g ref="char:EOLhyphen"/>prehended, of Father, Son, and Spirit, as God is the Father of all, and not as the Father of the Son Jeſus Chriſt: for here he is ſo the Father, as he is the Father of all, and not in a peculiar manner, as Father of Jeſus Chriſt by generation, but by creation and generation. In creation, Fa<g ref="char:EOLhyphen"/>ther, Son, and Spirit are Father of all indefinitely, <hi>Gen.</hi> 1.1.</p>
+            <p n="6">6. The Trinity muſt be three of one nature, eſſence, and being, or they are not fit to be joyned together. A God, a Man, an Angel, nay a man, meer man, above an Angel, is a very ſtrange Trinity, and no leſs then robbery to make equality in them.</p>
+            <p n="7">7. Indeed <hi>Matth.</hi> 3.16. hath the Father ſpeaking as a Father to the Son
+<pb n="25" facs="tcp:112662:15"/> as his Son, not Jeſus Chriſt as man, and the Spirit of God; which indeed is the Trinity or Elohims in Jehovah.</p>
+            <p>This one thing I deſire may be conſidered, that the holy Spirit is ſaid to be Spirit of God as Jehovah, and the Spirit of the Father, and the Spirit of the Son. Now as it is the Spirit of Jehovah, it clearly ſhews its eſſence and being in Jehovah to be equal and the ſame with the Father or Son, and one of the Elohims: for in this it is true, that <hi>Quicquid in Deo est, Deus est.</hi>
+            </p>
+            <p n="8">8. His Trinity is proved by 1 <hi>Cor.</hi> 12.3, 4, 5, 6.</p>
+            <p n="1">1. Verſ. 3, 4. the holy Spirit is expreſt and proved by its gifts, to prove the Word, and witneſs to the work of God by, as come forth from God.</p>
+            <p n="2">2. Of verſ. 5. the Lord Jeſus as man ſending out miniſters.</p>
+            <p n="3">3. Verſ. 6. God Jehovah, as Father, Son, and Spirit, is ſpoke of, as in the eſſence or being of God.</p>
+            <p>Now theſe things are ſpoken of, as relating to the Church, God and Chriſt in the Church: but the Trinity relates to God as in Jehovah the Elohims, in which they are one and equal, portioned in God without in<g ref="char:EOLhyphen"/>equal ty at all.</p>
+            <p>As for the moſt High God, <hi>Heb.</hi> 7.1. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, from <hi>Gen.</hi> 14.20. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: It anſwers to Jehovah, but hath <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> added to it, to make it as above other Gods in eſſence or being. This is not to diſtin<g ref="char:EOLhyphen"/>guiſh the Elohims, to make them one greater then other by.</p>
+            <p>I ſhould ſpeak of Prayer, becauſe Mr. <hi>Biddle</hi> hath reproved the groſs practice now in uſe.</p>
+            <p n="1">1. Prayer being to be made to Chriſt, as to our Prieſt, and by him to be offered to God, and not by us immediately to God, as now; in which the Prieſthood of Chriſt is made void.</p>
+            <p n="2">2. And how it is to be made to the Father, becauſe Jehovah in the Fa<g ref="char:EOLhyphen"/>ther is come out to man in a diſcovery of love, which is as a condeſcention to man.</p>
+            <p n="3">3. Becauſe the Father is in Jehovah's excellency, and for or by the Son and Spirit gone out from God, to enrich man in the things of God, He comes as by conſent of Son and Spirit, to give all things to any that ask in the Sons Name, that is, Miniſtery.</p>
+            <p n="4">4. The Father is not ſo to be called <hi>one,</hi> as diſtinct from Jehovah, but as in him; and ſo the Son and Spirit have glory with him: it being the uſe of Scripture to ſet out men calling on Jehovah the Elohims, <hi>Gen.</hi> 4.26. <hi>Mal.</hi> 1.11. <hi>Jer.</hi> 10.25. <hi>Pſal.</hi> 14.4. and 145.18. before the going forth of Son and Spirit.</p>
+            <p>
+               <hi>Applic.</hi> In this the Son and Spirit glorifie God and the Father, empty<g ref="char:EOLhyphen"/>ing themſelves.</p>
+            <p n="2">2. In this the Father glorifies the Son, that nothing is given but through the Lord Jeſus.</p>
+            <p n="3">3. He glorifies the Spirit, in that he heeds onely the minde of the Spi<g ref="char:EOLhyphen"/>rit, and that nothing is accepted that is not from the Spirit, as no ſacrifice that was not burnt or offered up by the celeſtial fire. But of this in my
+<pb n="26" facs="tcp:112662:16"/> book of <hi>Faith and Grace</hi> at large.</p>
+            <p>To conclude, as God is thus diſtinguiſhed, and ſo variouſly ſpoke of, by one word: ſo by the word <hi>Son</hi> is Jeſus Chriſt variouſly ſpoke of.</p>
+            <p n="1">1. As the Son of God, by being made of God, as <hi>Adam,</hi> Luk. 3.38. compared with <hi>Luke</hi> 1.35. and yet man of the virgin.</p>
+            <p n="2">2. As Son of God by generation, <hi>Heb.</hi> 1.5. <hi>To which of the angels ſaid he, Thou art my ſon, this day have I begotten thee?</hi> By which he is God in the throne of God, as in verſ. 8.</p>
+            <p n="3">3. As ſon of man, and of the ſeed of <hi>David;</hi> and ſo <hi>Mary</hi> was the mo<g ref="char:EOLhyphen"/>ther of Jeſus, <hi>Joh.</hi> 2.1.</p>
+            <p n="4">4. Oft-times, through communion of natures, ſomething is applied to one, that is proper to another, as <hi>the blood of God,</hi> Acts 20.28. where blood is ſaid to be the blood of the Divine nature, proper to the Humane. And <hi>Joh.</hi> 3.13. <hi>No man hath aſcended up to heaven, but he that came down from heaven, even the Son of man which is in heaven.</hi> Here that is applied and ſpoke of the humane nature, which is proper to the divine nature. In like caſe many things are mentioned in the Word, of Jeſus Chriſt the Son of God.</p>
+            <p n="5">5. His name as the Son, is one and the ſame with that of the Father and Spirit, not given of God to him, <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> then the Fathers.</p>
+            <p n="6">6. His name as Lord, was given him to adorn his humanity with; in which he is but little lower then the Elohims, but yet lower then them, as his name is lower then theirs, but more excellent then that of Angels or other creatures, <hi>Pſal.</hi> 8.4. which our late Tranſlations falſly render <hi>then the Angels,</hi> for <hi>the Elohims.</hi>
+            </p>
+            <p>Thus, Reader, by this, as by a key, without further trouble to me or any, thou mayſt eaſily unlooſe the obſcure, perplexed, and corrupt way Mr. <hi>Biddle</hi> hath taken to make the Scripture ſpeak to his unheard of Faith; to which the Lord enlarge and bleſs thee, that thou mayſt be preſerved from making ſhipwrack of thy faith, that thou mayſt be ſaved in the day of the Lord Jeſus: which is the deſire of him who is</p>
+            <closer>
+               <signed>An unworthy Witneſs of the Truth of the great God, and thy ſervant therein, <hi>John Brayne.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="insertion">
+            <pb facs="tcp:112662:16"/>
+            <head>This ſhould have been inſerted, page 5. between the 31 and 32 lines.</head>
+            <p>
+               <hi>Object.</hi> Exod. 7.1. <hi>Behold, I have given thee</hi> (or, <hi>made thee) Elohim to Pharaoh.</hi> Here God calls one man by the plural Elohim: <hi>Ergo,</hi> God, though one, may well ſet forth himſelf by that term, or in the way of many.</p>
+            <p>
+               <hi>Reſp.</hi> 1. God in Scripture of himſelf ſpeaks not by a noun plural, but by a verb having a pronoun plural added to it: and ſo it ſpeaks not of <hi>Moſes.</hi>
+            </p>
+            <p>If <hi>Moſes,</hi> though one, may by Commiſſion repreſent many that ſent him, yet himſelf but one; then he may be made Elohim.</p>
+            <p n="2">2. <hi>Moſes</hi> was ſent by the Elohim, <hi>Exod.</hi> 3.4. to the 16 verſe; that is, by Father, Son, and holy Spirit, as all were ſet forth in that work of redeem<g ref="char:EOLhyphen"/>ing <hi>Iſrael</hi> out of <hi>Egypt,</hi> and had a hand in it.</p>
+            <p n="3">3. So that <hi>Moſes</hi> as ſent by the Father, he repreſented the Father; as ſent by the Son, he repreſented the Son that ſent him; as ſent by the Spirit, he repreſented the Spirit: as Chriſt ſaid, <hi>He that receiveth me, re<g ref="char:EOLhyphen"/>ceiveth him that ſent me:</hi> and <hi>be that receiveth you, receiveth me.</hi> Which was confirmed in the works he did.</p>
+            <p n="1">1. The Father, in requiring <hi>Pharaoh</hi> to let them go.</p>
+            <p n="2">2. The Son, in the act of bringing them forth of <hi>Egypt.</hi>
+            </p>
+            <p n="3">3. The Spirit, in the works of wonder he wrought among the Egypti<g ref="char:EOLhyphen"/>ans, <hi>Exod.</hi> 8.15. <hi>Matth.</hi> 12.28. <hi>Luke</hi> 11.20.</p>
+            <p n="4">4. In theſe diſtinct acts of the Elohims, wrought by him, he was made Elohims to <hi>Pharaoh;</hi> Jehovah Elohim appearing to the obſtinate king, not immediately by himſelf, but by their meſſenger <hi>Moſes,</hi> who was ſent in another way then ever any man elſe in the world was.</p>
+            <p n="5">5. This <hi>Exod.</hi> 7.1. is opened by <hi>Exod.</hi> 6.16. <hi>He ſhall ſpeak for thee to the people, he ſhall be to thee for a mouth, and thou ſhalt be to him for Elohims.</hi> And ſo <hi>Exod.</hi> 7.1. <hi>Thou ſhalt be for Elohims,</hi> that is, is in their ſtead and place, as their miniſter to <hi>Pharaoh;</hi> who yet was not the Elohims, nor ſpoke of by a plural demonſtrative, as the Elohims are; and was done but in a figure, thence proves not argumentive, more then this, That he was ſent by many, and that what he did was in their name, and not in his own.</p>
+         </div>
+         <div type="interpretation">
+            <pb facs="tcp:112662:17"/>
+            <head>
+               <hi>Zoar</hi> on <hi>Levit.</hi> Sect. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Col. 16.</head>
+            <p>R. <hi>Simeon</hi> the father is brought in ſpeaking to R. <hi>Eleazer</hi> his ſon, ſaying, Jehovah <hi>in all places denotes Mercy, but</hi> Elohim <hi>Judgement. In which there is a myſtery,</hi> viz. <hi>that there are three degrees, and each degree by it ſelf diſtinct; all which notwithſtanding are one, and gathered up into one, neither is one ſe<g ref="char:EOLhyphen"/>parated from the other. Hence</hi> (ſays he) <hi>when the wicked turn Mercy into Judgement, we read</hi> Jehovah Elohim: <hi>to this excellently agrees the word</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>for that men call</hi> perſons <hi>in God; a word too carnal to ſet forth the degrees or ſubſiſtencies in God by.</hi> In which the Jew is clear and rare in the diſcovery of God: ſo that to deny the Unity of Trinity, is againſt the profeſſed doctrine and faith of the Jews, and a hinderance to their call, and contrary to the word delivered to their fathers by <hi>Moſes</hi> and the Pro<g ref="char:EOLhyphen"/>phets.</p>
+         </div>
+         <div type="interpretation">
+            <head>
+               <hi>Eccleſ. 12.1.</hi> Remember <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> thy Creators in the days of thy youth.</head>
+            <p n="1">1. It is in the plural, not dual number; and ſo there muſt be ſome o<g ref="char:EOLhyphen"/>ther beſides Mr. <hi>Biddle</hi>'s ſuppoſed Angel-ſpirit and the Father, creating man; which was the Son.</p>
+            <p n="2">2. The Father no more created man, then the other Creators; they are equally ſaid to be Creators: and for any man to ſay the Father crea<g ref="char:EOLhyphen"/>ted more then the Spirit or Son, is to make him a thief and a robber, ſtealing from, and robbing the Son and Spirit of their power and glory.</p>
+            <p n="3">3. To minde one Creator, and not the other two, is a diſobedience to Jehovah Elohim, is no leſs diſpleaſing to the Father then the Son; it be<g ref="char:EOLhyphen"/>ing no robbery to the Father, in our equalizing the Son and Spirit here<g ref="char:EOLhyphen"/>in with him: nay, <hi>he that glorifieth the Son</hi> herein, <hi>glorifieth the Father; and he that diſhonoureth the Son, diſhonoureth the Father alſo.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
